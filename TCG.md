@@ -1,1 +1,1 @@
-__# TCG results__
+# __TCG results__
