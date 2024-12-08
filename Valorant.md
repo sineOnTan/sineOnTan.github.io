@@ -3,4 +3,4 @@
 
 # Skills
 - Main Observer
-- [Observing](sineOnTan.github.io/Valorant/Observing)
+- [Observing](https://sineontan.github.io/Valorant/Observing)
