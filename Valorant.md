@@ -3,4 +3,5 @@
 
 # Skills
 - Main Observer
-- [Observing](https://sineontan.github.io/Observing)
+  - [Observing](https://sineontan.github.io/Observing)
+- Initiator main
