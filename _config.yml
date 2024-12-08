@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: SineOnTan's blog
 description: Blog of coding, TCG's and whatever else I'm doing.
 baseurl: ""
+include:
+  - _pages
