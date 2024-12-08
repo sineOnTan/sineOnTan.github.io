@@ -5,3 +5,4 @@
   - Top 32 (18th)
   - Rapidmon Deck
     - [Deck List](https://bestcoastpairings.com/list/0E98FDDQ8R83)
+![BT16-101](https://github.com/user-attachments/assets/5e3c369a-b360-4bc6-8568-c83289c97e21)
