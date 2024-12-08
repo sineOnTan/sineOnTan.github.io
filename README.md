@@ -1,3 +1,4 @@
 # sineOnTan.github.io
 
-[TCG's](sineOnTan.github.io/TCG)
+[TCG's](https://sineontan.github.io/TCG)
+
