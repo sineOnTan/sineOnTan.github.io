@@ -1,5 +1,5 @@
-#Current Rank
+# Current Rank
 - Diamond 2
 
-#Skills
+# Skills
 - Main Observer
