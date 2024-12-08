@@ -1,6 +1,6 @@
 # Cosine's Page
 
-Hi I'm Simon and I am a Comsci student who plays Valorant and TCG's
+Hi I'm Cosine and I am a Comsci student who plays Valorant and TCG's
 # [Coding](https://sineontan.github.io/Coding)
 
 # [Valorant](https://sineontan.github.io/Valorant)
