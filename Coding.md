@@ -2,11 +2,9 @@
 
 Codeforces Contest [992](https://codeforces.com/contest/2040)
  - A
-   - ||Small values so could be brute forced. Had some errors with using sets because they can't have multiple instances of the same value.||
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/992/A.cpp)
  - B
-   - The 
-   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/992/A.cpp)
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/992/B.cpp)
 
 # 08/12/2024
 
