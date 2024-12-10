@@ -1,5 +1,10 @@
 # 09/12/2024
 
+Leetcode question [2981 - Find Longest Special Substring That Occurs Thrice II](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/?envType=daily-question&envId=2024-12-10)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2981.cpp)
+   
+# 09/12/2024
+
 Leetcode question [3152 - Special Array II](https://leetcode.com/problems/special-array-ii/description/?envType=daily-question&envId=2024-12-09)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3152.cpp)
 
