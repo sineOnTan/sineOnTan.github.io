@@ -1,3 +1,8 @@
+# 17/12/2024
+
+Leetcode question [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/?envType=daily-question&envId=2024-12-16)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3264.cpp)
+
 # 12/12/2024
 
 Leetcode question [2558 - Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/?envType=daily-question&envId=2024-12-12)
