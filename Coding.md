@@ -1,3 +1,8 @@
+# 19/12/2024
+
+Leetcode question [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/?envType=daily-question&envId=2024-12-19)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/769.cpp)
+
 # 17/12/2024
 
 Leetcode question [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/?envType=daily-question&envId=2024-12-16)
