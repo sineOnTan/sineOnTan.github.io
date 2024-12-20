@@ -1,3 +1,8 @@
+# 20/12/2024
+
+[Advent Of Code Day 19](https://adventofcode.com/2024/day/19)
+ - [Solution](https://github.com/sineOnTan/adventofcode/blob/master/19A.cpp)
+
 # 19/12/2024
 
 Leetcode question [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/?envType=daily-question&envId=2024-12-19)
