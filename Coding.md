@@ -19,6 +19,9 @@ Leetcode question [3264. Final Array State After K Multiplication Operations I](
 Leetcode question [2558 - Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/?envType=daily-question&envId=2024-12-12)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2558.cpp)
 
+[Advent Of Code Day 12](https://adventofcode.com/2024/day/19)
+ - [Solution A](https://github.com/sineOnTan/adventofcode/blob/master/12A.cpp)
+
 # 10/12/2024
 
 Leetcode question [2981 - Find Longest Special Substring That Occurs Thrice II](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/?envType=daily-question&envId=2024-12-10)
