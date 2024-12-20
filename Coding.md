@@ -8,9 +8,9 @@
  - [Solution A](https://github.com/sineOnTan/adventofcode/blob/master/1A.cpp)
  - [Solution B](https://github.com/sineOnTan/adventofcode/blob/master/1B.cpp)
 
-[Advent Of Code Day 1](https://adventofcode.com/2024/day/1)
- - [Solution A](https://github.com/sineOnTan/adventofcode/blob/master/1A.cpp)
- - [Solution B](https://github.com/sineOnTan/adventofcode/blob/master/1B.cpp)
+[Advent Of Code Day 2](https://adventofcode.com/2024/day/2)
+ - [Solution A](https://github.com/sineOnTan/adventofcode/blob/master/2A.cpp)
+ - [Solution B](https://github.com/sineOnTan/adventofcode/blob/master/2B.cpp)
 
 # 19/12/2024
 
