@@ -1,7 +1,8 @@
 # 20/12/2024
 
 [Advent Of Code Day 19](https://adventofcode.com/2024/day/19)
- - [Solution](https://github.com/sineOnTan/adventofcode/blob/master/19A.cpp)
+ - [Solution A](https://github.com/sineOnTan/adventofcode/blob/master/19A.cpp)
+ - [Solution B](https://github.com/sineOnTan/adventofcode/blob/master/19B.cpp)
 
 # 19/12/2024
 
