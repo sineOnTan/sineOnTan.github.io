@@ -1,3 +1,8 @@
+# 21/12/2024
+
+Leetcode question [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/?envType=daily-question&envId=2024-12-21)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2872.cpp)
+
 # 20/12/2024
 
 [Advent Of Code Day 19](https://adventofcode.com/2024/day/19)
