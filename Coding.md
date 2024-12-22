@@ -1,3 +1,10 @@
+# 22/12/2024
+
+[Advent Of Code Day 3](https://adventofcode.com/2024/day/3)
+ - [Solution A](https://github.com/sineOnTan/adventofcode/blob/master/3A.cpp)
+ - [Solution B](https://github.com/sineOnTan/adventofcode/blob/master/3B.cpp)
+ - Author's note: Look at 3B comments. A lot of subfiles were used to make the process easier
+
 # 21/12/2024
 
 Leetcode question [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/?envType=daily-question&envId=2024-12-21)
