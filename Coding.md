@@ -1,3 +1,9 @@
+# 23/12/2024
+
+[Advent Of Code Day 4](https://adventofcode.com/2024/day/4)
+ - [Solution A](https://github.com/sineOnTan/adventofcode/blob/master/4A.cpp)
+ - [Solution B](https://github.com/sineOnTan/adventofcode/blob/master/4B.cpp)
+
 # 22/12/2024
 
 [Advent Of Code Day 3](https://adventofcode.com/2024/day/3)
