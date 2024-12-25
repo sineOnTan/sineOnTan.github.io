@@ -2,7 +2,7 @@
 
 - Digimon Online Ultimate Cup (Oceania) - TAK Games
   - [Event Results](https://bestcoastpairings.com/event/fKFPK3omjZwL)
-  - Top 32 (18th)
+  - Top 32 (18th/93)
   - Rapidmon Deck
     - [Deck List](https://github.com/sineOnTan/sineOnTan.github.io/blob/main/RapidUltiCupNov2024.txt)
   
