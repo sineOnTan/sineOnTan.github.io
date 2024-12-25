@@ -1,3 +1,8 @@
+# 25/12/2024
+
+Leetcode question [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=daily-question&envId=2024-12-25)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/515.cpp)
+
 # 23/12/2024
 
 [Advent Of Code Day 4](https://adventofcode.com/2024/day/4)
