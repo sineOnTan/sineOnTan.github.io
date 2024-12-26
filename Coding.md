@@ -1,3 +1,9 @@
+# 26/12/2024
+
+Leetcode question [494. Target Sum](https://leetcode.com/problems/target-sum/description/?envType=daily-question&envId=2024-12-26)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/494.cpp)
+
+
 # 25/12/2024
 
 Leetcode question [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=daily-question&envId=2024-12-25)
