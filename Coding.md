@@ -1,3 +1,8 @@
+# 30/12/2024
+
+Leetcode question [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/?envType=daily-question&envId=2024-12-30)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2466.cpp)
+
 # 27/12/2024
 
 Leetcode question [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/?envType=daily-question&envId=2024-12-27)
