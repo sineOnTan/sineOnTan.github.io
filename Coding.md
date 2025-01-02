@@ -1,3 +1,8 @@
+# 2/1/2025
+
+Leetcode question [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/?envType=daily-question&envId=2025-01-02)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2559.cpp)
+
 # 30/12/2024
 
 Leetcode question [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/?envType=daily-question&envId=2024-12-30)
