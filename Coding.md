@@ -3,6 +3,10 @@
 Leetcode question [2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2270.cpp)
 
+Codeforces Contest [2024-2025 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)](https://codeforces.com/contest/2052)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2052/A.cpp)
+
 # 2/1/2025
 
 Leetcode question [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/?envType=daily-question&envId=2025-01-02)
