@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 4/1/2025
+
+Leetcode question [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=daily-question&envId=2025-01-04)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1930.cpp)
+
 ## 3/1/2025
 
 Leetcode question [2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03)
