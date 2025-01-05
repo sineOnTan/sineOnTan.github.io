@@ -1,5 +1,11 @@
 # __Coding Questions__
 
+## 5/1/2025
+
+Leetcode question [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/?envType=daily-question&envId=2025-01-05)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2381.cpp)
+ - Interesting problem with char overflow
+
 ## 4/1/2025
 
 Leetcode question [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=daily-question&envId=2025-01-04)
