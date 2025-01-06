@@ -1,5 +1,15 @@
 # __Coding Questions__
 
+## 6/1/2025
+
+Leetcode question [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/?envType=daily-question&envId=2025-01-05)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2381.cpp)
+ - Interesting problem with char overflow
+
+Codeforces Contest [2057](https://codeforces.com/contest/2057)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2057/A.cpp)
+
 ## 5/1/2025
 
 Leetcode question [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/?envType=daily-question&envId=2025-01-05)
