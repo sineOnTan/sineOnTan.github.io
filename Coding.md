@@ -2,9 +2,9 @@
 
 ## 6/1/2025
 
-Leetcode question [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/?envType=daily-question&envId=2025-01-05)
- - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2381.cpp)
- - Interesting problem with char overflow
+Leetcode question [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?envType=daily-question&envId=2025-01-06)
+ - WIP
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1769.cpp)
 
 Codeforces Contest [2057](https://codeforces.com/contest/2057)
  - A
