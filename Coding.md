@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 7/1/2025
+
+Leetcode question [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/?envType=daily-question&envId=2025-01-07)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1408.cpp)
+
 ## 6/1/2025
 
 Leetcode question [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?envType=daily-question&envId=2025-01-06)
