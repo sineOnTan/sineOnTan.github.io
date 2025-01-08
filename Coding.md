@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 8/1/2025
+
+Leetcode question [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3042.cpp)
+
 ## 7/1/2025
 
 Leetcode question [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/?envType=daily-question&envId=2025-01-07)
