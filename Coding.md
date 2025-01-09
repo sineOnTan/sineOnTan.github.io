@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 9/1/2025
+
+Leetcode question [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/?envType=daily-question&envId=2025-01-09)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2185.cpp)
+
 ## 8/1/2025
 
 Leetcode question [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08)
