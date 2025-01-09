@@ -5,6 +5,10 @@
 Leetcode question [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/?envType=daily-question&envId=2025-01-09)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2185.cpp)
 
+Codeforces Contest [2057](https://codeforces.com/contest/2057)
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2057/B.cpp)
+
 ## 8/1/2025
 
 Leetcode question [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08)
