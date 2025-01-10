@@ -1,6 +1,6 @@
 # __Coding Questions__
 
-## 9/1/2025
+## 10/1/2025
 
 Leetcode question [916. Word Subsets](https://leetcode.com/problems/word-subsets/description/?envType=daily-question&envId=2025-01-10)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/916.cpp)
