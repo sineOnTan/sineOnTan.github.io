@@ -2,6 +2,11 @@
 
 ## 9/1/2025
 
+Leetcode question [916. Word Subsets](https://leetcode.com/problems/word-subsets/description/?envType=daily-question&envId=2025-01-10)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/916.cpp)
+
+## 9/1/2025
+
 Leetcode question [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/?envType=daily-question&envId=2025-01-09)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2185.cpp)
 
