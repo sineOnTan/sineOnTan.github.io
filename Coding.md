@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 11/1/2025
+
+Leetcode question [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/?envType=daily-question&envId=2025-01-11)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1400.cpp)
+
 ## 10/1/2025
 
 Leetcode question [916. Word Subsets](https://leetcode.com/problems/word-subsets/description/?envType=daily-question&envId=2025-01-10)
