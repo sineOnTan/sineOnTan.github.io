@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 12/1/2025
+
+Leetcode question [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/?envType=daily-question&envId=2025-01-12)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2116.cpp)
+
 ## 11/1/2025
 
 Leetcode question [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/?envType=daily-question&envId=2025-01-11)
