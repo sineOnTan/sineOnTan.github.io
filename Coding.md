@@ -1,9 +1,14 @@
 # __Coding Questions__
 
+## 13/1/2025
+
+Leetcode question [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/?envType=daily-question&envId=2025-01-13)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3223.cpp)
+
 ## 12/1/2025
 
 Leetcode question [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/?envType=daily-question&envId=2025-01-12)
- - Kind of difficult and interesting question. Still need to do a proof of concept of my code.
+ - Kind of difficult and interesting question.
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2116.cpp)
 
 ## 11/1/2025
