@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 14/1/2025
+
+Leetcode question [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2025-01-14)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2657.cpp)
+
 ## 13/1/2025
 
 Leetcode question [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/?envType=daily-question&envId=2025-01-13)
