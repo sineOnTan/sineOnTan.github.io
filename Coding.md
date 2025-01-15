@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 15/1/2025
+
+Leetcode question [2429. Minimize XOR](https://leetcode.com/problems/minimize-xor/description/?envType=daily-question&envId=2025-01-15)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2429.cpp)
+
 ## 14/1/2025
 
 Leetcode question [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2025-01-14)
