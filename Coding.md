@@ -1,5 +1,12 @@
 # __Coding Questions__
 
+## 02/02/2025
+
+Leetcode question [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02)
+ - Notes: Suprisingly difficult
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1752.cpp)
+
+
 ## 15/1/2025
 
 Leetcode question [2429. Minimize XOR](https://leetcode.com/problems/minimize-xor/description/?envType=daily-question&envId=2025-01-15)
