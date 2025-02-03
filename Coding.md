@@ -8,7 +8,7 @@ Leetcode question [1752. Check if Array Is Sorted and Rotated](https://leetcode.
    
 Codeforces Contest [2059](https://codeforces.com/contest/2059)
  - A
-   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2050/B.cpp)
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2059/A.cpp)
 
 ## 02/02/2025
 
