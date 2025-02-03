@@ -2,9 +2,8 @@
 
 ## 03/02/2025
 
-Leetcode question [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02)
- - Notes: Suprisingly difficult
- - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1752.cpp)
+Leetcode question [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/?envType=daily-question&envId=2025-02-03)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3105.cpp)
    
 Codeforces Contest [2059](https://codeforces.com/contest/2059)
  - A
