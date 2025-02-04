@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 04/02/2025
+
+Leetcode question [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/?envType=daily-question&envId=2025-02-04)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1800.cpp)
+
 ## 03/02/2025
 
 Leetcode question [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/?envType=daily-question&envId=2025-02-03)
