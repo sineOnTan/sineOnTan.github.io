@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 05/02/2025
+
+Leetcode question [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/?envType=daily-question&envId=2025-02-05)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1790.cpp)
+
 ## 04/02/2025
 
 Leetcode question [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/?envType=daily-question&envId=2025-02-04)
