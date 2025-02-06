@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 06/02/2025
+
+Leetcode question [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/?envType=daily-question&envId=2025-02-06)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1726.cpp)
+
 ## 05/02/2025
 
 Leetcode question [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/?envType=daily-question&envId=2025-02-05)
