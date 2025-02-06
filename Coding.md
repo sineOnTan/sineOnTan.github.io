@@ -3,7 +3,7 @@
 ## 06/02/2025
 
 Leetcode question [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/?envType=daily-question&envId=2025-02-06)
- - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1726.cpp)]
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1726.cpp)
 
 Codeforces Contest [2062](https://codeforces.com/contest/2062)
  - A
