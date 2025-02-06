@@ -8,7 +8,7 @@ Leetcode question [1726. Tuple with Same Product](https://leetcode.com/problems/
 Codeforces Contest [2062](https://codeforces.com/contest/2062)
  - A
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2062/A.cpp)
-  - B
+ - B
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2062/B.cpp)
 
 ## 05/02/2025
