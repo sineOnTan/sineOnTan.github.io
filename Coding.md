@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 07/02/2025
+
+Leetcode question [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/?envType=daily-question&envId=2025-02-07)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3160.cpp)
+
 ## 06/02/2025
 
 Leetcode question [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/?envType=daily-question&envId=2025-02-06)
