@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 08/02/2025
+
+Leetcode question [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1249.cpp)
+
 ## 07/02/2025
 
 Leetcode question [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/?envType=daily-question&envId=2025-02-07)
