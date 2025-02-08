@@ -5,6 +5,8 @@
 Leetcode question [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1249.cpp)
  - Note: Meta OA question
+Leetcode question [2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/?envType=daily-question&envId=2025-02-08)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2349.cpp)
 
 ## 07/02/2025
 
