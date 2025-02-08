@@ -4,6 +4,7 @@
 
 Leetcode question [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1249.cpp)
+ - Note: Meta OA question
 
 ## 07/02/2025
 
