@@ -5,6 +5,10 @@
 Leetcode question [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/?envType=daily-question&envId=2025-02-09)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2364.cpp)
 
+Codeforces Contest [2063](https://codeforces.com/contest/2063)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2063/C.cpp)
+
 ## 08/02/2025
 
 Leetcode question [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days)
