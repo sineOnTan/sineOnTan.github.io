@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 10/02/2025
+
+Leetcode question [3174. Clear Digits](https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3174.cpp)
+
 ## 09/02/2025
 
 Leetcode question [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/?envType=daily-question&envId=2025-02-09)
