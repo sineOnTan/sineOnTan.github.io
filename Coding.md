@@ -1,5 +1,12 @@
 # __Coding Questions__
 
+## 13/02/2025
+
+Leetcode question [3066. Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/?envType=daily-question&envId=2025-02-13)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3066.cpp)
+
+##__11, 12: Preparation for IMC contest and participation in CPMSOC contest__
+
 ## 10/02/2025
 
 Leetcode question [3174. Clear Digits](https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10)
