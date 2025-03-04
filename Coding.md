@@ -1,5 +1,11 @@
 # __Coding Questions__
 
+## 05/03/2025
+
+Leetcode question [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/?envType=daily-question&envId=2025-03-04)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1780.cpp)
+
+
 ## 13/02/2025
 
 Leetcode question [3066. Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/?envType=daily-question&envId=2025-02-13)
