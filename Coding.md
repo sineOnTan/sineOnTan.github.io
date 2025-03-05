@@ -2,6 +2,12 @@
 
 ## 05/03/2025
 
+Leetcode question [2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/?envType=daily-question&envId=2025-03-05)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2579.cpp)
+
+
+## 04/03/2025
+
 Leetcode question [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/?envType=daily-question&envId=2025-03-04)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1780.cpp)
 
