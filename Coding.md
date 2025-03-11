@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 11/03/2025
+
+Leetcode question [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/?envType=daily-question&envId=2025-03-11)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1358.cpp)
+
 ## 05/03/2025
 
 Leetcode question [2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/?envType=daily-question&envId=2025-03-05)
