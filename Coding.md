@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 12/03/2025
+
+Leetcode question [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/?envType=daily-question&envId=2025-03-12)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2529.cpp)
+
 ## 11/03/2025
 
 Leetcode question [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/?envType=daily-question&envId=2025-03-11)
