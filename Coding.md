@@ -29,6 +29,13 @@ Leetcode question [2579. Count Total Number of Colored Cells](https://leetcode.c
 Leetcode question [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/?envType=daily-question&envId=2025-03-04)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1780.cpp)
 
+Codeforces Contest [2067](https://codeforces.com/contest/2067)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2067/A.cpp)
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2067/B.cpp)
+ - C
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2067/C.cpp) 
 
 ## 13/02/2025
 
