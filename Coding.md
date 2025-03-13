@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 13/03/2025
+
+Leetcode question [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/?envType=daily-question&envId=2025-03-13)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3356.cpp)
+
 ## 12/03/2025
 
 Leetcode question [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/?envType=daily-question&envId=2025-03-12)
