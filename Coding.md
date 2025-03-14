@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 14/03/2025
+
+Leetcode question [2226. Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/?envType=daily-question&envId=2025-03-14)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2226.cpp)
+
 ## 13/03/2025
 
 Leetcode question [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/?envType=daily-question&envId=2025-03-13)
