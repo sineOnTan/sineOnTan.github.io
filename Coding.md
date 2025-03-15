@@ -1,3 +1,3 @@
 # Leetcode
 
-[cosineTheta]https://leetcode.com/u/cosineTheta/
+[cosineTheta](https://leetcode.com/u/cosineTheta/)
