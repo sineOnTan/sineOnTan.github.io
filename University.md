@@ -1,8 +1,8 @@
-# University Results
+# University
 
 __WAM 87.3__
 
-**Courses**
+__**Courses**__
 
 C++, Rust and Algorithms:
 - Comp4128 - Programming Challenges (98)
@@ -20,7 +20,7 @@ Others:
 - Comp1511 - Programming Fundamentals (91)
 - Comp1521 - Computer Systems Fundamentals (88)
 
-**Clubs**
+__**Clubs**__
 
 Activities and societies: 
 - Rhythm Games Society 
