@@ -24,7 +24,7 @@ Comp1521 - Computer Systems Fundamentals (88)
 
 Activities and societies: 
 - Rhythm Games Society 
- - Exec (2022-2023)
+  - Exec (2022-2023)
 - Tabletop Games Society
- - Subcom (2023)
- - Director (2024)
+  - Subcom (2023)
+  - Director (2024)
