@@ -2,7 +2,7 @@
 
 __WAM 87.3__
 
-- **Courses**
+**Courses**
 
 C++, Rust and Algorithms:
 - Comp4128 - Programming Challenges (98)
@@ -20,7 +20,7 @@ Others:
 - Comp1511 - Programming Fundamentals (91)
 - Comp1521 - Computer Systems Fundamentals (88)
 
-- **Clubs**
+**Clubs**
 
 Activities and societies: 
 - Rhythm Games Society 
