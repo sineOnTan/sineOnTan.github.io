@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 15/03/2025
+
+Leetcode question [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/description/?envType=daily-question&envId=2025-03-15)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2560.cpp)
+
 ## 14/03/2025
 
 Leetcode question [2226. Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/?envType=daily-question&envId=2025-03-14)
