@@ -2,7 +2,7 @@
 
 Hi I'm Cosine and I am a Comsci student who plays Valorant and TCG's
 
-# [Coding](https://sineontan.github.io/Coding)
+# [Code Blog](https://sineontan.github.io/CodeBlog)
 
 # [Valorant](https://sineontan.github.io/Valorant)
 
