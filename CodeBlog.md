@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 16/03/2025
+
+Leetcode question [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/description/?envType=daily-question&envId=2025-03-16)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2594.cpp)
+
 ## 15/03/2025
 
 Leetcode question [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/description/?envType=daily-question&envId=2025-03-15)
