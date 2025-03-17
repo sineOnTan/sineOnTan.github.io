@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 17/03/2025
+
+Leetcode question [2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2206.cpp)
+
 ## 16/03/2025
 
 Leetcode question [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/description/?envType=daily-question&envId=2025-03-16)
