@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 19/03/2025
+
+Leetcode question [3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3191.cpp)
+
 ## 17/03/2025
 
 Leetcode question [2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17)
