@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 20/03/2025
+
+Leetcode question [3108. Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/?envType=daily-question&envId=2025-03-20)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3108.cpp)
+
 ## 19/03/2025
 
 Leetcode question [3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19)
