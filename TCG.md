@@ -1,5 +1,9 @@
 # __TCG results__
 
+- Digimon Adelaide Regionals 29/03/2025
+  - Top 32 (30/111)
+  - Galaxy Toolbox
+
 - Digimon Online Ultimate Cup (Oceania) - TAK Games
   - [Event Results](https://bestcoastpairings.com/event/fKFPK3omjZwL)
   - Top 32 (18/93)
