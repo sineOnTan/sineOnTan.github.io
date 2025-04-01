@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 1/04/2025
+
+Leetcode question [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/?source=submission-noac)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2140.cpp)
+
 ## 20/03/2025
 
 Leetcode question [3108. Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/?envType=daily-question&envId=2025-03-20)
