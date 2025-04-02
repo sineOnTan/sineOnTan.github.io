@@ -1,5 +1,10 @@
 # __Coding Questions__
 
+## 2/04/2025
+
+Leetcode question [2873. Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/?envType=daily-question&envId=2025-04-02)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2873.cpp)
+
 ## 1/04/2025
 
 Leetcode question [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/?source=submission-noac)
