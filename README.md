@@ -6,7 +6,7 @@ Hi I'm Cosine and I am a Comsci student who plays Valorant and TCG's
 
 - Leetcode/Codeforces questions
 
-# [DSA Blog](https://sineontan.github.io/DSA_blog)
+# [DSA Blog](https://sineontan.github.io/DSAblog)
 
 - Investigation into DSA's in c++
 
