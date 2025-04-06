@@ -4,6 +4,8 @@ Hi I'm Cosine and I am a Comsci student who plays Valorant and TCG's
 
 # [Code Blog](https://sineontan.github.io/CodeBlog)
 
+# [DSA Blog](https://sineontan.github.io/DSA_blog)
+
 # [Valorant](https://sineontan.github.io/Valorant)
 
 # [TCG's](https://sineontan.github.io/TCG)
