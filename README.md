@@ -4,13 +4,23 @@ Hi I'm Cosine and I am a Comsci student who plays Valorant and TCG's
 
 # [Code Blog](https://sineontan.github.io/CodeBlog)
 
+- Leetcode/Codeforces questions
+
 # [DSA Blog](https://sineontan.github.io/DSA_blog)
+
+- Investigation into DSA's in c++
 
 # [Valorant](https://sineontan.github.io/Valorant)
 
+- Valorant rank and observing
+
 # [TCG's](https://sineontan.github.io/TCG)
 
+- TCG results (mostly Digimon)
+
 # [University](https://sineontan.github.io/University)
+
+- University courses and results
 
 ---
 
