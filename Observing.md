@@ -2,6 +2,7 @@
 
 _VCT Challengers OCE Open Qualifiers___ (08/04/2025)
  - [Twitter](https://x.com/tjbruce17594/status/1909438369383465221)
+ - [Vlr.gg](https://www.vlr.gg/468916/edge-vs-welcome-2-earth-challengers-league-2025-oceania-split-1-sf)
 
 __LPL Pathfinder Season 3 Silver Division: Grand Final__ (08/12/2024)
  - [Vlr.gg](https://www.vlr.gg/427905/estio-esports-vs-yonko-lpl-pathfinder-season-3-gf)
