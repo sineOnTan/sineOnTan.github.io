@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 8/04/2025
+
+Leetcode question [3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3396.cpp)
+
 ## 2/04/2025
 
 Leetcode question [2873. Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/?envType=daily-question&envId=2025-04-02)
