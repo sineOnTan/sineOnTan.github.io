@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 9/04/2025
+
+Leetcode question [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3375.cpp)
+
 ## 8/04/2025
 
 Leetcode question [3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08)
