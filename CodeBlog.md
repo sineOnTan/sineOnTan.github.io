@@ -7,6 +7,12 @@
 Leetcode question [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/?envType=daily-question&envId=2025-04-13)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1922.cpp)
 
+Codeforces Contest [2093](https://codeforces.com/contest/2093)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2093/A.cpp)
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2093/B.cpp)
+
 ## 9/04/2025
 
 Leetcode question [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09)
