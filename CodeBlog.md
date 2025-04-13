@@ -12,6 +12,8 @@ Codeforces Contest [2093](https://codeforces.com/contest/2093)
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2093/A.cpp)
  - B
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2093/B.cpp)
+ - C
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2093/C.cpp)
 
 ## 9/04/2025
 
