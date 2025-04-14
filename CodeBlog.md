@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 14/04/2025
+
+Leetcode question [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/?envType=daily-question&envId=2025-04-14)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1534.cpp)
+
 ## 13/04/2025
 
 Leetcode question [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/?envType=daily-question&envId=2025-04-13)
