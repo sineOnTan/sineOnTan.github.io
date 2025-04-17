@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 17/04/2025
+
+Leetcode question [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/?envType=daily-question&envId=2025-04-17)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2176.cpp)
+
 ## 14/04/2025
 
 Leetcode question [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/?envType=daily-question&envId=2025-04-14)
