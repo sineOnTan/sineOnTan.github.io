@@ -12,6 +12,12 @@ Leetcode question [2145. Count the Hidden Sequences](https://leetcode.com/proble
 Leetcode question [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/?envType=daily-question&envId=2025-04-20)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/781.cpp)
 
+Codeforces Contest [2096](https://codeforces.com/contest/2096)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2096/A.cpp)
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2096/B.cpp)
+
 ## 17/04/2025
 
 Leetcode question [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/?envType=daily-question&envId=2025-04-17)
