@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 23/04/2025
+
+Leetcode question [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/description/?envType=daily-question&envId=2025-04-23)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1399.cpp)
+
 ## 21/04/2025
 
 Leetcode question [2145. Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/description/?envType=daily-question&envId=2025-04-21)
