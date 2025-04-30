@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 30/04/2025
+
+Leetcode question [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?envType=daily-question&envId=2025-04-30)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1295.cpp)
+
 ## 27/04/2025
 
 Leetcode question [3392. Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/?envType=daily-question&envId=2025-04-27)
