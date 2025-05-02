@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 2/05/2025
+
+Leetcode question [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/?envType=daily-question&envId=2025-05-02)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/838.cpp)
+
 ## 30/04/2025
 
 Leetcode question [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?envType=daily-question&envId=2025-04-30)
