@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 3/05/2025
+
+Leetcode question [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/?envType=daily-question&envId=2025-05-03)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1007.cpp)
+
 ## 2/05/2025
 
 Leetcode question [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/?envType=daily-question&envId=2025-05-02)
