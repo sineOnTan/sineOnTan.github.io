@@ -37,6 +37,12 @@ Leetcode question [1399. Count Largest Group](https://leetcode.com/problems/coun
 Leetcode question [2145. Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/description/?envType=daily-question&envId=2025-04-21)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2145.cpp)
 
+Codeforces Contest [2103](https://codeforces.com/contest/2103)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2103/A.cpp)
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2103/B.cpp)
+
 ## 20/04/2025
 
 Leetcode question [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/?envType=daily-question&envId=2025-04-20)
