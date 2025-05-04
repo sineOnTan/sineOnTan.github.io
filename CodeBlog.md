@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 4/05/2025
+
+Leetcode question [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/?envType=daily-question&envId=2025-05-04)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1128.cpp)
+
 ## 3/05/2025
 
 Leetcode question [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/?envType=daily-question&envId=2025-05-03)
