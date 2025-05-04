@@ -11,6 +11,7 @@ Codeforces Contest [2103](https://codeforces.com/contest/2103)
  - A + B (21/04/2025)
  - C
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2103/C.cpp)
+   - Personal notes in document.
 
 ## 3/05/2025
 
