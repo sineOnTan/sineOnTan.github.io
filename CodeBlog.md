@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 5/05/2025
+
+Leetcode question [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=daily-question&envId=2025-05-05)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/790.cpp)
+
 ## 4/05/2025
 
 Leetcode question [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/?envType=daily-question&envId=2025-05-04)
