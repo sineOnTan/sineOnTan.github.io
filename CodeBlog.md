@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 6/05/2025
+
+Leetcode question [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1920.cpp)
+
 ## 5/05/2025
 
 Leetcode question [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=daily-question&envId=2025-05-05)
