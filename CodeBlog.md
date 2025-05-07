@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 7/05/2025
+
+Leetcode question [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/description/?envType=daily-question&envId=2025-05-07)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3341.cpp)
+
 ## 6/05/2025
 
 Leetcode question [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06)
