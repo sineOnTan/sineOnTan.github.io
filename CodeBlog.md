@@ -2,9 +2,14 @@
 
 # __Coding Questions__
 
+## 11/05/2025
+
+Leetcode question [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2025-05-11)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1550.cpp)
+
 ## 8/05/2025
 
-Leetcode question 3342. [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/?envType=daily-question&envId=2025-05-08)
+Leetcode question [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/?envType=daily-question&envId=2025-05-08)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3342.cpp)
 
 ## 7/05/2025
