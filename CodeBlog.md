@@ -2,6 +2,11 @@
 
 # __Coding Questions__
 
+## 12/05/2025
+
+Leetcode question [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-12)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2094.cpp)
+
 ## 11/05/2025
 
 Leetcode question [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2025-05-11)
