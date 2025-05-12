@@ -12,6 +12,14 @@ Leetcode question [2094. Finding 3-Digit Even Numbers](https://leetcode.com/prob
 Leetcode question [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2025-05-11)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1550.cpp)
 
+Codeforces Contest [2102](https://codeforces.com/contest/2102)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2102/A.cpp)
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2102/B.cpp)
+ - C
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2102/C.cpp)
+
 ## 8/05/2025
 
 Leetcode question [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/?envType=daily-question&envId=2025-05-08)
