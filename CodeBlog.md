@@ -4,6 +4,11 @@
 
 ## 12/05/2025
 
+Leetcode question [3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/description/?envType=daily-question&envId=2025-05-13)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3335.cpp)
+
+## 12/05/2025
+
 Leetcode question [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-12)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2094.cpp)
 
