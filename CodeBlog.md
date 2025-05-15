@@ -2,7 +2,12 @@
 
 # __Coding Questions__
 
-## 12/05/2025
+## 15/05/2025
+
+Leetcode question [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description/?envType=daily-question&envId=2025-05-15)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2900.cpp)
+
+## 13/05/2025
 
 Leetcode question [3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/description/?envType=daily-question&envId=2025-05-13)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3335.cpp)
