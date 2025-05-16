@@ -4,7 +4,8 @@
 
 ## 16/05/2025
 
-
+Leetcode question [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/?envType=daily-question&envId=2025-05-16)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2901.cpp)
 
 ## 15/05/2025
 
