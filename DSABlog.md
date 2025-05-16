@@ -6,11 +6,10 @@ Mainly c++ data structures
 
 [Vector with Map properties](https://github.com/sineOnTan/DSA_Blog/blob/main/dualMap.cpp)
 
-Allows log(N) access time for first, last, largest and smallest.
-
-Front and end insetion in log(N) time.
-
-Swapping indexes and/or numbers in log(N) time.
+Allows 
+- log(N) access time for first, last, largest and smallest.
+- log(N) front and end insertion
+- log(N) Swapping indexes and/or numbers
 
 Essentially a Jack of All Trades of a data structure. Could implement more functions however this is the basic implementation.
 
