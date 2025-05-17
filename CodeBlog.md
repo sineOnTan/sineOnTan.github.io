@@ -6,7 +6,7 @@
 
 Leetcode question [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/?envType=daily-question&envId=2025-05-16)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2901.cpp)
-- <spoiler summary="Favorite Yu-Gi-Oh card (started with tribirds)">
+<spoiler summary="Favorite Yu-Gi-Oh card (started with tribirds)">
 ![Lyrilusc &mdash; Recital Starling](https://s3.duellinksmeta.com/cards/60c2b3aba0e24f2d54a52a28_w420.webp)
 </spoiler>
 
