@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 18/05/2025
+
+Leetcode question [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1931.cpp)
+<details>
+  <summary>Editorial</summary>
+  DP with bitwise operations and masks. A little annoying to get the checks working and I did the DP wrong. One optimisation is caching the valid candidates for sets of 5 colours which was necessary as my code was slow. I guess you could also cache the valid combinations which will cut down the number of operations by a decent amount but this solution works.
+</details>
+
 ## 16/05/2025
 
 Leetcode question [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/?envType=daily-question&envId=2025-05-16)
