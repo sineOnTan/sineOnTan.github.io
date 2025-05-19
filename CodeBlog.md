@@ -11,6 +11,14 @@ Leetcode question [3024. Type of Triangle](https://leetcode.com/problems/type-of
   Very easy question. Only tricky part is that if the sum of 2 lengths is less then the third it cannot be a triangle.
 </details>
 
+Codeforces Contest [2109](https://codeforces.com/contest/2109)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2109/A.cpp)
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2109/B.cpp)
+ - C
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2109/C1.cpp)
+
 ## 18/05/2025
 
 Leetcode question [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18)
