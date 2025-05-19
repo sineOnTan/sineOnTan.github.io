@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 19/05/2025
+
+Leetcode question [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/?envType=daily-question&envId=2025-05-19)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3024.cpp)
+<details>
+  <summary>Editorial</summary>
+  Very easy question. Only tricky part is that if the sum of 2 lengths is less then the third it cannot be a triangle.
+</details>
+
 ## 18/05/2025
 
 Leetcode question [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18)
