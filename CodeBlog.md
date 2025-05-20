@@ -4,6 +4,15 @@
 
 ## 19/05/2025
 
+Leetcode question [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3355.cpp)
+<details>
+  <summary>Editorial</summary>
+  Question is a matter of caching the increment and decrement ranges and then doing 1 parse on the nums array.
+</details>
+
+## 19/05/2025
+
 Leetcode question [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/?envType=daily-question&envId=2025-05-19)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3024.cpp)
 <details>
