@@ -2,7 +2,16 @@
 
 # __Coding Questions__
 
-## 19/05/2025
+## 21/05/2025
+
+Leetcode question [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=daily-question&envId=2025-05-21)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/73.cpp)
+<details>
+  <summary>Editorial</summary>
+  Initial thought was if a value was 0, set all values in its column and row to 0 however this is too slow. i.e. multiple 0s in a row or column. To speed this up cache the 0 indexes and iterate through the cached 0s without duplicates and set those columns and rows to 0.
+</details>
+
+## 20/05/2025
 
 Leetcode question [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3355.cpp)
