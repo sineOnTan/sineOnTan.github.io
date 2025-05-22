@@ -1,5 +1,8 @@
 # Observing History
 
+__Noob Esports Charity Tournament__ (22/05/2025)
+ - [Twitter](https://x.com/noob_esports/status/1925469180809420895)
+
 __AusTubers: Agents of Change charity tournament__ (18/05/2025)
  - [Twitter](https://x.com/AusTubers/status/1908677505902653821)
 
