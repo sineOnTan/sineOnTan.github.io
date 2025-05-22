@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 22/05/2025
+
+Leetcode question [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/description/?envType=daily-question&envId=2025-05-22)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3362.cpp)
+<details>
+  <summary>Editorial</summary>
+  The trick is to iterate on the numbers array. In doing so you ensure you find the minimum amount of queries possible for a given value with the maximum range. Usint pqs helps but you need to use checks to ensure whether it is possible.
+</details>
+
 ## 21/05/2025
 
 Leetcode question [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=daily-question&envId=2025-05-21)
