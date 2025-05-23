@@ -4,6 +4,15 @@
 
 ## 22/05/2025
 
+Leetcode question [3068. Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2025-05-23)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3068.cpp)
+<details>
+  <summary>Editorial</summary>
+  Interesting question. First instinct was to DP but after realising that there are certain conditions such as having an even number of flips across the tree it becomes easier.
+</details>
+
+## 22/05/2025
+
 Leetcode question [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/description/?envType=daily-question&envId=2025-05-22)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3362.cpp)
 <details>
