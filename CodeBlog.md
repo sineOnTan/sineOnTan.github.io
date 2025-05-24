@@ -4,6 +4,15 @@
 
 ## 22/05/2025
 
+Leetcode question [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2942.cpp)
+<details>
+  <summary>Editorial</summary>
+  Simple question just use contains on the string or iterate through the string.
+</details>
+
+## 22/05/2025
+
 Leetcode question [3068. Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2025-05-23)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3068.cpp)
 <details>
