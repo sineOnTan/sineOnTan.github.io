@@ -8,7 +8,7 @@ Leetcode question [2131. Longest Palindrome by Concatenating Two Letter Words](h
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2131.cpp)
 <details>
   <summary>Editorial</summary>
-  Simple question just use contains on the string or iterate through the string.
+  Interesting question. One edge case to handle are duplicate letters in the pair which is doable by having a seperate case. Can sort the string to find duplicates. Had an error with my multiplication though.
 </details>
 
 ## 24/05/2025
