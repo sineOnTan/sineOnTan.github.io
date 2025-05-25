@@ -68,19 +68,19 @@ Leetcode question [3024. Type of Triangle](https://leetcode.com/problems/type-of
 Codeforces Contest [2109](https://codeforces.com/contest/2109)
  - A
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2109/A.cpp)
-   - <details>
+     <details>
       <summary>Editorial</summary>
       There are 2 situations where it is not true. For every set of numbers, at least 1 person must lose and for each pair of people at least 1 person must win.
     </details>
  - B
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2109/B.cpp)
-   - <details>
+     <details>
       <summary>Editorial</summary>
       In a 2D plane, we can either initially cut the x or y from the starting position. Initially thought of doing complex mathematics to do it but realised I could do them individually and compare the result.
     </details>
  - C
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2109/C1.cpp)
-   - <details>
+     <details>
      <summary>Editorial</summary>
      Weird question........ Idk look at the official editorial.
    </details>
