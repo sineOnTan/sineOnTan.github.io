@@ -15,55 +15,55 @@ Leetcode question [2131. Longest Palindrome by Concatenating Two Letter Words](h
 
 Leetcode question [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2942.cpp)
-<details>
-  <summary>Editorial</summary>
-  Simple question just use contains on the string or iterate through the string.
-</details>
+  <details>
+    <summary>Editorial</summary>
+    Simple question just use contains on the string or iterate through the string.
+  </details>
 
 ## 23/05/2025
 
 Leetcode question [3068. Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2025-05-23)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3068.cpp)
-<details>
-  <summary>Editorial</summary>
-  Interesting question. First instinct was to DP but after realising that there are certain conditions such as having an even number of flips across the tree it becomes easier.
-</details>
+  <details>
+    <summary>Editorial</summary>
+    Interesting question. First instinct was to DP but after realising that there are certain conditions such as having an even number of flips across the tree it becomes easier.
+  </details>
 
 ## 22/05/2025
 
 Leetcode question [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/description/?envType=daily-question&envId=2025-05-22)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3362.cpp)
-<details>
-  <summary>Editorial</summary>
-  The trick is to iterate on the numbers array. In doing so you ensure you find the minimum amount of queries possible for a given value with the maximum range. Usint pqs helps but you need to use checks to ensure whether it is possible.
-</details>
+  <details>
+    <summary>Editorial</summary>
+    The trick is to iterate on the numbers array. In doing so you ensure you find the minimum amount of queries possible for a given value with the maximum range. Usint pqs helps but you need to use checks to ensure whether it is possible.
+  </details>
 
 ## 21/05/2025
 
 Leetcode question [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=daily-question&envId=2025-05-21)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/73.cpp)
-<details>
-  <summary>Editorial</summary>
-  Initial thought was if a value was 0, set all values in its column and row to 0 however this is too slow. i.e. multiple 0s in a row or column. To speed this up cache the 0 indexes and iterate through the cached 0s without duplicates and set those columns and rows to 0.
-</details>
+  <details>
+    <summary>Editorial</summary>
+    Initial thought was if a value was 0, set all values in its column and row to 0 however this is too slow. i.e. multiple 0s in a row or column. To speed this up cache the 0 indexes and iterate through the cached 0s without duplicates and set those columns and rows to 0.
+  </details>
 
 ## 20/05/2025
 
 Leetcode question [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3355.cpp)
-<details>
-  <summary>Editorial</summary>
-  Question is a matter of caching the increment and decrement ranges and then doing 1 parse on the nums array.
-</details>
+  <details>
+    <summary>Editorial</summary>
+    Question is a matter of caching the increment and decrement ranges and then doing 1 parse on the nums array.
+  </details>
 
 ## 19/05/2025
 
 Leetcode question [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/?envType=daily-question&envId=2025-05-19)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3024.cpp)
-<details>
-  <summary>Editorial</summary>
-  Very easy question. Only tricky part is that if the sum of 2 lengths is less then the third it cannot be a triangle.
-</details>
+  <details>
+    <summary>Editorial</summary>
+    Very easy question. Only tricky part is that if the sum of 2 lengths is less then the third it cannot be a triangle.
+  </details>
 
 Codeforces Contest [2109](https://codeforces.com/contest/2109)
  - A
@@ -89,19 +89,19 @@ Codeforces Contest [2109](https://codeforces.com/contest/2109)
 
 Leetcode question [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1931.cpp)
-<details>
-  <summary>Editorial</summary>
-  DP with bitwise operations and masks. A little annoying to get the checks working and I did the DP wrong. One optimisation is caching the valid candidates for sets of 5 colours which was necessary as my code was slow. I guess you could also cache the valid combinations which will cut down the number of operations by a decent amount but this solution works.
-</details>
+  <details>
+    <summary>Editorial</summary>
+    DP with bitwise operations and masks. A little annoying to get the checks working and I did the DP wrong. One optimisation is caching the valid candidates for sets of 5 colours which was necessary as my code was slow. I guess you could also cache the valid combinations which will cut down the number of operations by a decent amount but this solution works.
+  </details>
 
 ## 17/05/2025
 
 Leetcode question [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/?envType=daily-question&envId=2025-05-17)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/75.cpp)
-<details>
-  <summary>Editorial</summary>
-  Simplest solution is a counting sort as there are only 3 possible values.
-</details>
+  <details>
+    <summary>Editorial</summary>
+    Simplest solution is a counting sort as there are only 3 possible values.
+  </details>
 
 ## 16/05/2025
 
