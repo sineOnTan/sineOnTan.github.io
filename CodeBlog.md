@@ -11,6 +11,7 @@ Leetcode question [2131. Longest Palindrome by Concatenating Two Letter Words](h
   Interesting question. One edge case to handle are duplicate letters in the pair which is doable by having a seperate case. Can sort the string to find duplicates. Had an error with my multiplication though.
 </details>
 
+
 ## 24/05/2025
 
 Leetcode question [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24)
