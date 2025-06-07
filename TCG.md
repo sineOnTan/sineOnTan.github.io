@@ -1,5 +1,9 @@
 # __TCG results__
 
+- Digimon Adelaide Regionals (7/6/2025)
+  - Top 16 (13/84)
+  - Galaxy Toolbox
+
 - Digimon Certified Judge (3/06/2025)
 
 - Digimon Adelaide Regionals (29/03/2025)
