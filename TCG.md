@@ -1,5 +1,13 @@
 # __TCG results__
 
+- Digimon Online Regionals (19/7/2025)
+  - Top 16 (16/126)
+  - Galaxy Toolbox
+
+- Digimon Online Regionals (29/6/2025)
+  - Top 16 (9/62)
+  - Galaxy Toolbox
+
 - Digimon Online Regionals (7/6/2025)
   - Top 16 (13/84)
   - Galaxy Toolbox
