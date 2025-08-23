@@ -2,6 +2,20 @@
 
 # __Coding Questions__
 
+## 24/08/2025
+
+Codeforces Contest [2034](https://codeforces.com/contest/2034)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2034/A.cpp)
+     <details>
+      <summary>Editorial</summary>
+      There are 2 situations where it is not true. For every set of numbers, at least 1 person must lose and for each pair of people at least 1 person must win.
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2034/B.cpp)
+     <details>
+      <summary>Editorial</summary>
+      In a 2D plane, we can either initially cut the x or y from the starting position. Initially thought of doing complex mathematics to do it but realised I could do them individually and compare the result.
+
 ## 25/05/2025
 
 Leetcode question [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/?envType=daily-question&envId=2025-05-25)
