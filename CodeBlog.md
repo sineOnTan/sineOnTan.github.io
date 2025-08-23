@@ -9,12 +9,12 @@ Codeforces Contest [2034](https://codeforces.com/contest/2034)
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2034/A.cpp)
      <details>
       <summary>Editorial</summary>
-      There are 2 situations where it is not true. For every set of numbers, at least 1 person must lose and for each pair of people at least 1 person must win.
+      This is a question to find the LCM of the two numbers.
  - B
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2034/B.cpp)
      <details>
       <summary>Editorial</summary>
-      In a 2D plane, we can either initially cut the x or y from the starting position. Initially thought of doing complex mathematics to do it but realised I could do them individually and compare the result.
+      Need a check on whether the last x where 0 which could be done iteratively then solve from there
 
 ## 25/05/2025
 
