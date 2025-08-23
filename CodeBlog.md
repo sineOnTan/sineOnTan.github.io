@@ -7,6 +7,7 @@
 Codeforces Contest [2034](https://codeforces.com/contest/2034)
  - A
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2034/A.cpp)
+   - https://www.youtube.com/watch?v=XZSsTcJzayc
      <details>
       <summary>Editorial</summary>
       This is a question to find the LCM of the two numbers.
