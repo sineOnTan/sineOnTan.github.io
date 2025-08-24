@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 25/08/2025
+
+Leetcode question [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=daily-question&envId=2025-08-24)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1493.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Predecessors and successors counting. Edge case encountered where the index 0 or last element is deleted. Also made errors in my own code on how it should work.
+  </details>
+
 ## 24/08/2025
 
 Codeforces Contest [2034](https://codeforces.com/contest/2034)
