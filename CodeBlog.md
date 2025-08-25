@@ -2,7 +2,7 @@
 
 # __Coding Questions__
 
-## 25/08/2025
+## 24/08/2025
 
 Leetcode question [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=daily-question&envId=2025-08-24)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1493.cpp)
@@ -29,8 +29,6 @@ Leetcode question [1493. Longest Subarray of 1's After Deleting One Element](htt
       <summary>Editorial</summary>
       Weird question which required topological ordering, path lengths then adjacency checks.
       First find the longest paths, then check for valid next nodes with length minus 1.
-
-## 24/08/2025
 
 Codeforces Contest [2034](https://codeforces.com/contest/2034)
  - A
