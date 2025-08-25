@@ -39,6 +39,7 @@ Codeforces Contest [2034](https://codeforces.com/contest/2034)
       This is a question to find the LCM of the two numbers.
  - B
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2034/B.cpp)
+   - https://www.youtube.com/watch?v=k5cUNLMUClQ
      <details>
       <summary>Editorial</summary>
       Need a check on whether the last x where 0 which could be done iteratively then solve from there
