@@ -11,6 +11,25 @@ Leetcode question [1493. Longest Subarray of 1's After Deleting One Element](htt
     Predecessors and successors counting. Edge case encountered where the index 0 or last element is deleted. Also made errors in my own code on how it should work.
   </details>
 
+  Codeforces Contest [2133](https://codeforces.com/contest/2133)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2133/A.cpp)
+   - https://www.youtube.com/watch?v=XZSsTcJzayc
+     <details>
+      <summary>Editorial</summary>
+      Check if two numbers are the same.
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2133/B.cpp)
+     <details>
+      <summary>Editorial</summary>
+      Sort decreasing then sum every odd number.
+ - C
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2133/C.cpp)
+     <details>
+      <summary>Editorial</summary>
+      Weird question which required topological ordering, path lengths then adjacency checks.
+      First find the longest paths, then check for valid next nodes with length minus 1.
+
 ## 24/08/2025
 
 Codeforces Contest [2034](https://codeforces.com/contest/2034)
