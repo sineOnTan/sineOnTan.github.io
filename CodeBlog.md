@@ -14,7 +14,6 @@ Leetcode question [1493. Longest Subarray of 1's After Deleting One Element](htt
 Codeforces Contest [2133](https://codeforces.com/contest/2133)
  - A
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2133/A.cpp)
-   - https://www.youtube.com/watch?v=XZSsTcJzayc
      <details>
       <summary>Editorial</summary>
       Check if two numbers are the same.
