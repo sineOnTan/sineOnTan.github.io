@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 25/08/2025
+
+Leetcode question [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/?envType=daily-question&envId=2025-08-26)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3000.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Eval the max value and swap if it is greater
+  </details>
+
 ## 24/08/2025
 
 Leetcode question [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=daily-question&envId=2025-08-24)
