@@ -2,7 +2,9 @@
 
 # __Coding Questions__
 
-## 25/08/2025
+
+
+## 26/08/2025
 
 Leetcode question [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/?envType=daily-question&envId=2025-08-26)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3000.cpp)
@@ -19,6 +21,24 @@ Leetcode question [1493. Longest Subarray of 1's After Deleting One Element](htt
     <summary>Editorial</summary>
     Predecessors and successors counting. Edge case encountered where the index 0 or last element is deleted. Also made errors in my own code on how it should work.
   </details>
+
+Codeforces Contest [2134](https://codeforces.com/contest/2134)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2134/A.cpp)
+     <details>
+      <summary>Editorial</summary>
+      Modulus check on the numbers and coverage check.
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2134/B.cpp)
+     <details>
+      <summary>Editorial</summary>
+      Was a modulus check in mod k + 1. Each addition decreases the remainder of mod k + 1 by 1.
+ - C
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2134/C.cpp)
+     <details>
+      <summary>Editorial</summary>
+      2 things are important. The predecessor and successor at event indices.
+      Greedy so you make the predecessor legal when compared to the current and then the successor legal when comparing the current by the succ and pred.
 
 Codeforces Contest [2133](https://codeforces.com/contest/2133)
  - A
