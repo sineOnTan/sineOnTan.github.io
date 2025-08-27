@@ -13,15 +13,6 @@ Leetcode question [3000. Maximum Area of Longest Diagonal Rectangle](https://lee
     Eval the max value and swap if it is greater
   </details>
 
-## 24/08/2025
-
-Leetcode question [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=daily-question&envId=2025-08-24)
-- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1493.cpp)
-  <details>
-    <summary>Editorial</summary>
-    Predecessors and successors counting. Edge case encountered where the index 0 or last element is deleted. Also made errors in my own code on how it should work.
-  </details>
-
 Codeforces Contest [2134](https://codeforces.com/contest/2134)
  - A
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2134/A.cpp)
@@ -39,6 +30,15 @@ Codeforces Contest [2134](https://codeforces.com/contest/2134)
       <summary>Editorial</summary>
       2 things are important. The predecessor and successor at event indices.
       Greedy so you make the predecessor legal when compared to the current and then the successor legal when comparing the current by the succ and pred.
+
+## 24/08/2025
+
+Leetcode question [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=daily-question&envId=2025-08-24)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1493.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Predecessors and successors counting. Edge case encountered where the index 0 or last element is deleted. Also made errors in my own code on how it should work.
+  </details>
 
 Codeforces Contest [2133](https://codeforces.com/contest/2133)
  - A
