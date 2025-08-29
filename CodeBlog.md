@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 29/08/2025
+
+Leetcode question [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/?envType=daily-question&envId=2025-08-29)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3021.cpp)
+  <details>
+    <summary>Editorial</summary>
+    The pair is valid if the sum of flowers is odd. So count the number of odds pairs for any combination of n and m. Which can be done with some modulus and maths.
+  </details>
+
 ## 28/08/2025
 
 Leetcode question [3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/?envType=daily-question&envId=2025-08-28)
