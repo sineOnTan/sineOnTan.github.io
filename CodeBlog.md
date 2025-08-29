@@ -25,17 +25,17 @@ Codeforces Contest [2136](https://codeforces.com/contest/2136)
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/A.cpp)
      <details>
       <summary>Editorial</summary>
-      To be done
+      The answer is to ensure that for any given half, a team's score for the half is not greater then a value (as shown in the code).
  - B
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/B.cpp)
      <details>
       <summary>Editorial</summary>
-      To be done
+      Sliding window question. If for any string of length k, there is no '0' then at least one of them must be maximum and thus it would be invalid.
  - C
    - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/C.cpp)
      <details>
       <summary>Editorial</summary>
-      To be done
+      Using a map, a queue and a best_so_far, we can use DP to determine whether using a new neat array is better or worse then not using it.
 
 
 ## 26/08/2025
