@@ -2,6 +2,21 @@
 
 # __Coding Questions__
 
+## 28/08/2025
+
+Leetcode question [3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/?envType=daily-question&envId=2025-08-28)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3446.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Break it down into 2 sets and get the numbers, sort them then reinsert
+  </details>
+
+Codeforces Contest [2134](https://codeforces.com/contest/2134)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2134/A.cpp)
+     <details>
+      <summary>Editorial</summary>
+      Modulus check on the numbers and coverage check.
 
 
 ## 26/08/2025
