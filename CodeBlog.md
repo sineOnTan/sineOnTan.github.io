@@ -11,12 +11,22 @@ Leetcode question [3446. Sort Matrix by Diagonals](https://leetcode.com/problems
     Break it down into 2 sets and get the numbers, sort them then reinsert
   </details>
 
-Codeforces Contest [2134](https://codeforces.com/contest/2134)
+Codeforces Contest [2136](https://codeforces.com/contest/2136)
  - A
-   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2134/A.cpp)
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/A.cpp)
      <details>
       <summary>Editorial</summary>
-      Modulus check on the numbers and coverage check.
+      To be done
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/B.cpp)
+     <details>
+      <summary>Editorial</summary>
+      To be done
+ - C
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/C.cpp)
+     <details>
+      <summary>Editorial</summary>
+      To be done
 
 
 ## 26/08/2025
