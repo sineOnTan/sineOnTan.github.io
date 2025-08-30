@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 30/08/2025
+
+Leetcode question [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=daily-question&envId=2025-08-30)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/36.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Check first rows, then columns then the subsquares.
+  </details>
+
 ## 29/08/2025
 
 Leetcode question [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/?envType=daily-question&envId=2025-08-29)
