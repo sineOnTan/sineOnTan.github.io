@@ -2,6 +2,16 @@
 
 # __Coding Questions__
 
+## 1/09/2025
+
+Leetcode question [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2025-09-01)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1792.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Greedy with max heap properties.
+    Proof would be for any combination of extra students. Put them where it will increase the ratio the most. For any other deviation from the optimal, the return of ratio increase would be worst.
+  </details>
+
 ## 30/08/2025
 
 Leetcode question [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=daily-question&envId=2025-08-30)
