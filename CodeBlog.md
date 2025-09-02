@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 2/09/2025
+
+Leetcode question [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3025.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Some checks whether the pair is valid then if every node is outside. O(n^3) time is brute forceable.
+  </details>
+
 ## 1/09/2025
 
 Leetcode question [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2025-09-01)
