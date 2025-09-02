@@ -23,17 +23,17 @@ Codeforces Contest [2132](https://codeforces.com/contest/2132)
       <summary>Editorial</summary>
       The question was to determine if the number was divisible by a value 10^x + 1 and store them.
  - C1
-   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/C1.cpp)
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2132/C1.cpp)
      <details>
       <summary>Editorial</summary>
       The minimum amount of orders is determining the remainder mod 3^x for all x and summing them together.
  - C2
-   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/C2.cpp)
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2132/C2.cpp)
      <details>
       <summary>Editorial</summary>
       For any combination, breaking an order into 3 smaller orders is cheaper. Thus we need to determine the minimum number of orders then break larger orders into smaller depending on how many orders are available.
  - E
-   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/E.cpp)
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2132/E.cpp)
      <details>
       <summary>Editorial</summary>
       Interesting question. Required to use the hints. Initial thoughts was decreasing values and dual graphs and summation of the two graphs. However because it is not a linear function we can not binary search.
