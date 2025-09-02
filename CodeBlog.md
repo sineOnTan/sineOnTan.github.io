@@ -11,6 +11,34 @@ Leetcode question [3025. Find the Number of Ways to Place People I](https://leet
     Some checks whether the pair is valid then if every node is outside. O(n^3) time is brute forceable.
   </details>
 
+Codeforces Contest [2132](https://codeforces.com/contest/2132)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2132/A.cpp)
+     <details>
+      <summary>Editorial</summary>
+      This question was append or prepend to a string depending on v and d.
+ - B
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2132/B.cpp)
+     <details>
+      <summary>Editorial</summary>
+      The question was to determine if the number was divisible by a value 10^x + 1 and store them.
+ - C1
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/C1.cpp)
+     <details>
+      <summary>Editorial</summary>
+      The minimum amount of orders is determining the remainder mod 3^x for all x and summing them together.
+ - C2
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/C2.cpp)
+     <details>
+      <summary>Editorial</summary>
+      For any combination, breaking an order into 3 smaller orders is cheaper. Thus we need to determine the minimum number of orders then break larger orders into smaller depending on how many orders are available.
+ - E
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/2136/E.cpp)
+     <details>
+      <summary>Editorial</summary>
+      Interesting question. Required to use the hints. Initial thoughts was decreasing values and dual graphs and summation of the two graphs. However because it is not a linear function we can not binary search.
+      After looking at the solutions I realised the main problem was that I was trying to work from a base set of values then expand. The solution was to overestimate x and y then decrease them to fit the limit.
+
 ## 1/09/2025
 
 Leetcode question [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2025-09-01)
