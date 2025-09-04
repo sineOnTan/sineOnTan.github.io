@@ -2,6 +2,22 @@
 
 # __Coding Questions__
 
+## 3/09/2025
+
+Leetcode question [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/146.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Uses maps and linked lists. Refer to lists in std lib.
+  </details>
+
+Leetcode question [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/description/?envType=daily-question&envId=2025-09-04)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3516.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Stock standard absolute value check and difference.
+  </details>
+
 ## 2/09/2025
 
 Leetcode question [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02)
