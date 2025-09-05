@@ -2,7 +2,16 @@
 
 # __Coding Questions__
 
-## 3/09/2025
+## 5/09/2025
+
+Leetcode question [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1584.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Find the mst of the points after computing edge weights.
+  </details>
+
+## 4/09/2025
 
 Leetcode question [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/146.cpp)
