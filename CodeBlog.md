@@ -11,6 +11,13 @@ Leetcode question [1584. Min Cost to Connect All Points](https://leetcode.com/pr
     Find the mst of the points after computing edge weights.
   </details>
 
+Leetcode question [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/description/)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/990.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Find DSU of the equality tree then check the inequalities.
+  </details>
+
 ## 4/09/2025
 
 Leetcode question [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
