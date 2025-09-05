@@ -1,6 +1,6 @@
 # __TCG results__
 
-- Digimon Online Regionals (19/7/2025)
+- Digimon Sydney Regionals (19/7/2025)
   - Top 16 (16/126)
   - Galaxy Toolbox
 
