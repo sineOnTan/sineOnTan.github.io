@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 7/09/2025
+
+Leetcode question [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/?envType=daily-question&envId=2025-09-07)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1304.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Insert n - 1 unique numbers then insert the negative.
+  </details>
+
 ## 5/09/2025
 
 Leetcode question [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
