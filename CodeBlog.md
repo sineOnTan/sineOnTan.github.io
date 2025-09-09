@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 9/09/2025
+
+Leetcode question [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/?envType=daily-question&envId=2025-09-09)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2327.cpp)
+  <details>
+    <summary>Editorial</summary>
+    2D dp. Annoying part is doing forget and sharing. The bounds of the two are a bit finnicky.
+  </details>
+
 ## 7/09/2025
 
 Leetcode question [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/?envType=daily-question&envId=2025-09-07)
