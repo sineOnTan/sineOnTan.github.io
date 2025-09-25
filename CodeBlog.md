@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 25/09/2025
+
+Leetcode question [120. Triangle](https://leetcode.com/problems/triangle/description/?envType=daily-question&envId=2025-09-25)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/120.cpp)
+  <details>
+    <summary>Editorial</summary>
+    2D dp. 2 possible child nodes for each element in the tree. Went up the triangle to reduce end computations.
+  </details>
+
 ## 9/09/2025
 
 Leetcode question [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/?envType=daily-question&envId=2025-09-09)
