@@ -2,6 +2,24 @@
 
 # __Coding Questions__
 
+## 28/09/2025
+
+Leetcode question [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/?envType=daily-question&envId=2025-09-28)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/976.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Sort the points then iterate through all triplets adjacent to each other.
+  </details>
+
+## 27/09/2025
+
+Leetcode question [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/?envType=daily-question&envId=2025-09-27)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/812.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Iterate through all pairs of points and ensure they are valid then call the max_area.
+  </details>
+
 ## 25/09/2025
 
 Leetcode question [120. Triangle](https://leetcode.com/problems/triangle/description/?envType=daily-question&envId=2025-09-25)
