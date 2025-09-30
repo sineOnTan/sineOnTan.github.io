@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 30/09/2025
+
+Leetcode question [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/?envType=daily-question&envId=2025-09-30)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2221.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Compute each sub layer then return when the layer size is 1.
+  </details>
+
 ## 28/09/2025
 
 Leetcode question [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/?envType=daily-question&envId=2025-09-28)
