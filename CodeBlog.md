@@ -2,6 +2,20 @@
 
 # __Coding Questions__
 
+## 2/10/2025
+
+Leetcode question [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/?envType=daily-question&envId=2025-10-02)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3100.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Exchange as many as possible then keep exchanging until you cant exchange any more
+  </details>
+
+## 1/10/2025
+
+Leetcode question [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/?envType=daily-question&envId=2025-10-01)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1518.cpp)
+
 ## 30/09/2025
 
 Leetcode question [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/?envType=daily-question&envId=2025-09-30)
