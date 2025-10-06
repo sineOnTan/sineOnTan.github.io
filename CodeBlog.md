@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 6/10/2025
+
+Leetcode question [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/?envType=daily-question&envId=2025-10-06)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/778.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Can brute force iterate until you determine whether each value of i has a valid path.
+  </details>
+
 ## 2/10/2025
 
 Leetcode question [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/?envType=daily-question&envId=2025-10-02)
