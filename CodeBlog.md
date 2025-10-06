@@ -8,7 +8,7 @@ Leetcode question [778. Swim in Rising Water](https://leetcode.com/problems/swim
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/778.cpp)
   <details>
     <summary>Editorial</summary>
-    Can brute force iterate until you determine whether each value of i has a valid path.
+    Can brute force iterate until you determine whether each value of i has a valid path. Optimisation includes a binary search.
   </details>
 
 ## 2/10/2025
