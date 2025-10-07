@@ -1,6 +1,6 @@
 # University
 
-## WAM: 87.3
+## WAM: 86.23
 
 ## Courses
 
