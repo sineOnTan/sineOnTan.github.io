@@ -9,6 +9,7 @@ __Noob Esports Charity Tournament__ (22/05/2025)
 
 __AusTubers: Agents of Change charity tournament__ (18/05/2025)
  - [Twitter](https://x.com/AusTubers/status/1908677505902653821)
+ - [Vod](https://www.twitch.tv/videos/2465289972)
 
 __VCT Challengers OCE Open Qualifiers__ (08/04/2025)
  - [Twitter](https://x.com/tjbruce17594/status/1909438369383465221)
