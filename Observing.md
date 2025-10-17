@@ -1,9 +1,11 @@
 # Observing History
 
 __Wave OCE Proteus__ (4 + 5/09/2025)
+ - Day 1
  - [Twitter](https://x.com/Wave_OCE/status/1963744834063384975)
  - [Vod](https://www.twitch.tv/videos/2583621219?filter=all&sort=time)
-  
+
+ - Day 2
  - [Twitter](https://x.com/Wave_OCE/status/1963388107765813265)
  - [Vod](https://www.twitch.tv/videos/2583621219?filter=all&sort=time)
  - [Clip](https://x.com/Wave_OCE/status/1963902821423821293)
