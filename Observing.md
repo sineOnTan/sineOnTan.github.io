@@ -10,6 +10,7 @@ __Wave OCE Proteus__ (4 + 5/09/2025)
  - Day 1
  - [Twitter](https://x.com/Wave_OCE/status/1963388107765813265)
  - [Vod](https://www.twitch.tv/videos/2583621219?filter=all&sort=time)
+ - [Vod](https://www.twitch.tv/videos/2583629057?filter=all&sort=time)
 
 __Noob Esports Charity Tournament__ (22/05/2025)
  - [Twitter](https://x.com/noob_esports/status/1925469180809420895)
