@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 19/10/2025
+
+Leetcode question [3397. Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/description/?envType=daily-question&envId=2025-10-18)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3397.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Greedy algorithm where you sort, then for each number find the smallest value available.
+  </details>
+
 ## 6/10/2025
 
 Leetcode question [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/?envType=daily-question&envId=2025-10-06)
