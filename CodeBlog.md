@@ -2,7 +2,16 @@
 
 # __Coding Questions__
 
-## 19/10/2025
+## 20/10/2025
+
+Leetcode question [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/?envType=daily-question&envId=2025-10-20)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2011.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Just iterate. IDK man
+  </details>
+
+## 18/10/2025
 
 Leetcode question [3397. Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/description/?envType=daily-question&envId=2025-10-18)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3397.cpp)
