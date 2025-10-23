@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 23/10/2025
+
+Leetcode question [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/description/?envType=daily-question&envId=2025-10-23)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3461.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Just iterate. IDK man
+  </details>
+
 ## 20/10/2025
 
 Leetcode question [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/?envType=daily-question&envId=2025-10-20)
