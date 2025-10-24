@@ -4,6 +4,15 @@
 
 ## 23/10/2025
 
+Leetcode question [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/?envType=daily-question&envId=2025-10-24)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2048.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Iterate incrementally then test that the number is valid.
+  </details>
+
+## 23/10/2025
+
 Leetcode question [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/description/?envType=daily-question&envId=2025-10-23)
 - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3461.cpp)
   <details>
