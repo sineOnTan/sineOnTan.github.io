@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 28/10/2025
+
+Leetcode question [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/description/?envType=daily-question&envId=2025-10-28)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3354.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Find predecessors and suffix sums, then find when the difference is within one of each or equal.
+  </details>
+
 ## 23/10/2025
 
 Leetcode question [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/?envType=daily-question&envId=2025-10-24)
