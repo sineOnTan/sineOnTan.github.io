@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 29/10/2025
+
+Leetcode question [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/?envType=daily-question&envId=2025-10-29)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3370.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Find the smallest power of 2 greater then n then subtract 1.
+  </details>
+
 ## 28/10/2025
 
 Leetcode question [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/description/?envType=daily-question&envId=2025-10-28)
