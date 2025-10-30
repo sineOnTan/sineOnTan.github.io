@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 30/10/2025
+
+Leetcode question [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/?envType=daily-question&envId=2025-10-30)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1526.cpp)
+  <details>
+    <summary>Editorial</summary>
+    When a number increases, increase res by the difference. The summation of the differences is the result.
+  </details>
+
 ## 29/10/2025
 
 Leetcode question [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/?envType=daily-question&envId=2025-10-29)
