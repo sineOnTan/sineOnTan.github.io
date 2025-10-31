@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 31/10/2025
+
+Leetcode question [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/?envType=daily-question&envId=2025-10-31)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3289.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Sort then determine two consecutive numbers.
+  </details>
+
 ## 30/10/2025
 
 Leetcode question [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/?envType=daily-question&envId=2025-10-30)
