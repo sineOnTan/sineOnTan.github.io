@@ -2,6 +2,16 @@
 
 # __Coding Questions__
 
+## 1/11/2025
+
+Leetcode question [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/?envType=daily-question&envId=2025-11-01)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3217.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Add all the numbers to a set then remove all the nodes using the set to check. Problems may arise with removing nullptrs so extra checks are necessary.
+  </details>
+
+
 ## 31/10/2025
 
 Leetcode question [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/?envType=daily-question&envId=2025-10-31)
