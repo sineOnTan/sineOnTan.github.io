@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 2/11/2025
+
+Leetcode question [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/?envType=daily-question&envId=2025-11-02)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2257.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Solved beforer
+  </details>
+
 ## 1/11/2025
 
 Leetcode question [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/?envType=daily-question&envId=2025-11-01)
