@@ -1,5 +1,8 @@
 # Observing History
 
+__Acer Predator League 2026 Oceania__ (1 + 2/11/2025)
+ - [Twitter](https://x.com/noob_esports/status/1925469180809420895)
+
 __UNSW UCC Valorant Observing__ (19/10/2025)
 
 __UNSW UCC CS2 Prod + Observing__ (18/10/2025)
