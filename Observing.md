@@ -1,7 +1,9 @@
 # Observing History
 
 __Acer Predator League 2026 Oceania__ (1 + 2/11/2025)
- - [Twitter](https://x.com/noob_esports/status/1925469180809420895)
+ - [Twitter](https://x.com/tjbruce17594/status/1984436574617276630)
+ - [Vod Day 1](https://www.youtube.com/watch?v=eGK3MRDlxJk)
+ - [Vod Day 2](https://www.youtube.com/watch?v=lDv4o2IqQvI)
 
 __UNSW UCC Valorant Observing__ (19/10/2025)
 
