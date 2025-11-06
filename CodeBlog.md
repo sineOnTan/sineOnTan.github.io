@@ -2,6 +2,16 @@
 
 # __Coding Questions__
 
+## 6/11/2025
+
+Leetcode question [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/description/?envType=daily-question&envId=2025-11-06)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/3607.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Using a Disjoint set union to find the connections.
+    Then use sets to store which ones are active and after, iterate through the queries and find when the set has some predetermined elements.
+  </details>
+
 ## 2/11/2025
 
 Leetcode question [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/?envType=daily-question&envId=2025-11-02)
