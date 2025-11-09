@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 9/11/2025
+
+Leetcode question [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/?envType=daily-question&envId=2025-11-09)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2169.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Keep subtracting the min from the max till one of them is zero and add the number of times.
+  </details>
+
 ## 6/11/2025
 
 Leetcode question [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/description/?envType=daily-question&envId=2025-11-06)
