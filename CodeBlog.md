@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 17/11/2025
+
+Leetcode question [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/?envType=daily-question&envId=2025-11-17)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/1437.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Do a linear time check using a second pointer and move the initial pointer if its x distance from the last.
+  </details>
+
 ## 9/11/2025
 
 Leetcode question [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/?envType=daily-question&envId=2025-11-09)
