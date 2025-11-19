@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 20/11/2025
+
+Leetcode question [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=daily-question&envId=2025-11-19)
+- [Solution](https://github.com/sineOnTan/leetcode/blob/main/2154.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Create a set then keep searching it for original.
+  </details>
+
 ## 17/11/2025
 
 Leetcode question [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/?envType=daily-question&envId=2025-11-17)
