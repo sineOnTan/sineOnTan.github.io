@@ -2,6 +2,12 @@
 
 # __Coding Questions__
 
+## 21/11/2025
+
+Leetcode question [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=daily-question&envId=2025-11-21)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1930.cpp)
+ - Notes: Done Before
+
 ## 20/11/2025
 
 Leetcode question [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=daily-question&envId=2025-11-19)
