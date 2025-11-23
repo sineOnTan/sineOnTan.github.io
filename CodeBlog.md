@@ -8,8 +8,8 @@ Leetcode question [1262. Greatest Sum Divisible by Three](https://leetcode.com/p
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1262.cpp)
   <details>
     <summary>Editorial</summary>
-    Sum all the numbers together. 
-    If the remainder is one, find max when sub one number with remainder 1, or 2 with remainder 2./b
+    Sum all the numbers together.<br>
+    If the remainder is one, find max when sub one number with remainder 1, or 2 with remainder 2.<br>
     If the remainder is two, find max when sub one number with remainder 2, or 2 with remainder 1.
   </details>
 
