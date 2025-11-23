@@ -2,7 +2,18 @@
 
 # __Coding Questions__
 
-## 21/11/2025
+## 23/11/2025
+
+Leetcode question [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/?envType=daily-question&envId=2025-11-23)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1262.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Sum all the numbers together. 
+    If the remainder is one, find max when sub one number with remainder 1, or 2 with remainder 2.
+    If the remainder is two, find max when sub one number with remainder 2, or 2 with remainder 1.
+  </details>
+
+## 22/11/2025
 
 Leetcode question [3190. Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/description/?envType=daily-question&envId=2025-11-22)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3190.cpp)
