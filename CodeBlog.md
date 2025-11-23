@@ -4,6 +4,12 @@
 
 ## 21/11/2025
 
+Leetcode question [3190. Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/description/?envType=daily-question&envId=2025-11-22)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3190.cpp)
+ - Notes: Easy question
+
+## 21/11/2025
+
 Leetcode question [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=daily-question&envId=2025-11-21)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1930.cpp)
  - Notes: Done Before
