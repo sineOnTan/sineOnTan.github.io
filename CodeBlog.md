@@ -9,7 +9,7 @@ Leetcode question [1262. Greatest Sum Divisible by Three](https://leetcode.com/p
   <details>
     <summary>Editorial</summary>
     Sum all the numbers together. 
-    If the remainder is one, find max when sub one number with remainder 1, or 2 with remainder 2.
+    If the remainder is one, find max when sub one number with remainder 1, or 2 with remainder 2.\b
     If the remainder is two, find max when sub one number with remainder 2, or 2 with remainder 1.
   </details>
 
