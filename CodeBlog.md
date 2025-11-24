@@ -2,6 +2,16 @@
 
 # __Coding Questions__
 
+## 24/11/2025
+
+Leetcode question [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/?envType=daily-question&envId=2025-11-24)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1018.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Add the current and check if it is divisible by 5.
+    Then multiply by 2 and find it moduolo 5.
+  </details>
+
 ## 23/11/2025
 
 Leetcode question [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/?envType=daily-question&envId=2025-11-23)
