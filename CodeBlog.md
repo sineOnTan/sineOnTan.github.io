@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 25/11/2025
+
+Leetcode question [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/?envType=daily-question&envId=2025-11-25)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1015.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Multiply by 10 then add 1. Then find it moduolo k. If it is in the set return -1 else continue.
+  </details>
+
 ## 24/11/2025
 
 Leetcode question [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/?envType=daily-question&envId=2025-11-24)
