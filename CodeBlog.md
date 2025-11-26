@@ -2,6 +2,16 @@
 
 # __Coding Questions__
 
+## 26/11/2025
+
+Leetcode question [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/?envType=daily-question&envId=2025-11-26)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2435.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Create a 3D Dp that stores the number of paths that can result in an int mod k. Use Dp to calculate each value.<br>
+    Had errors with memory allocation and also ensuring the array access was a positive value which is why it is 100 * div.
+  </details>
+
 ## 25/11/2025
 
 Leetcode question [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/?envType=daily-question&envId=2025-11-25)
