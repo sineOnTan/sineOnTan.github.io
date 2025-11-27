@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 27/11/2025
+
+Leetcode question [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/?envType=daily-question&envId=2025-11-27)
+  <details>
+    <summary>Editorial</summary>
+    Have a queue which tracks the optimal subarray of length x * k.<br>
+    Essentially a rolling queue popping out the last and tracking the most optimal.
+  </details>
+
 ## 26/11/2025
 
 Leetcode question [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/?envType=daily-question&envId=2025-11-26)
