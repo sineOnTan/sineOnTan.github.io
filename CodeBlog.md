@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 15/12/2025
+
+Leetcode question [2147. Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/?envType=daily-question&envId=2025-12-14)
+  <details>
+    <summary>Editorial</summary>
+    Determine if it the number of seats is divisible by 2. I.e. check if there is a valid solution.<br>
+    Then to count multiply the number of plants in between every second gap.
+  </details>
+
 ## 27/11/2025
 
 Leetcode question [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/?envType=daily-question&envId=2025-11-27)
