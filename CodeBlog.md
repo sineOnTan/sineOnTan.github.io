@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 4/01/2026
+
+Leetcode question [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/?envType=daily-question&envId=2026-01-03)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1411.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Using DP use checks whether you can add to a prior value using a 27 x N Dynamic Program grid.
+  </details>
+
 ## 20/12/2025
 
 Leetcode question [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/?envType=daily-question&envId=2025-12-20)
