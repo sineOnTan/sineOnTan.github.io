@@ -4,6 +4,15 @@
 
 ## 4/01/2026
 
+Leetcode question [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/?envType=daily-question&envId=2026-01-04)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1390.cpp)
+  <details>
+    <summary>Editorial</summary>
+    For each number, check whether the divisors are 4. Edge case I determines was if it is a square number, at which point it will never. Fufills time complexity with O(m * sqrt(n)).
+  </details>
+
+## 3/01/2026
+
 Leetcode question [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/?envType=daily-question&envId=2026-01-03)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1411.cpp)
   <details>
