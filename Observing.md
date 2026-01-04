@@ -1,5 +1,10 @@
 # Observing History
 
+__Noob Esports Starlight Charity Event__ (19/12/2025)
+ - [Twitter](https://x.com/noob_esports/status/2001940579052392658)
+ - [Vod Day 1](https://www.youtube.com/watch?v=eGK3MRDlxJk)
+ - [Vod Day 2](https://www.youtube.com/watch?v=lDv4o2IqQvI)
+
 __Acer Predator League 2026 Oceania__ (1 + 2/11/2025)
  - [Twitter](https://x.com/tjbruce17594/status/1984436574617276630)
  - [Vod Day 1](https://www.youtube.com/watch?v=eGK3MRDlxJk)
