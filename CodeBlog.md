@@ -2,6 +2,17 @@
 
 # __Coding Questions__
 
+## 27/01/2026
+
+Leetcode question [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/?envType=daily-question&envId=2026-01-27)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3650.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Rebuild the edges into an adjacency list and for each edge add its reverse with double weight.<br>
+    Then use any shortest path algorithm to determine the minimum cost.<br>
+    For any node since we do not have negative values, we will never revisit a node.
+  </details>
+
 ## 26/01/2026
 
 Leetcode question [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/)
