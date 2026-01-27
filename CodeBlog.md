@@ -4,7 +4,7 @@
 
 ## 26/01/2026
 
-Leetcode question [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)
+Leetcode question [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/)
  - No solution in Cpp or on Repo.
 
 ## 25/01/2026
