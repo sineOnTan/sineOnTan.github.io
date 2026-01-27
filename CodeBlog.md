@@ -2,6 +2,60 @@
 
 # __Coding Questions__
 
+## 26/01/2026
+
+Leetcode question [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)
+ - No solution in Cpp or on Repo.
+
+## 25/01/2026
+
+Leetcode question [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1984.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Sort the values then find when the value of a[i] and a[i + k - 1] is minimised.
+  </details>
+
+## 8/01/2026
+
+Leetcode question [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/865.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Determine the heights of each subtree.<br>
+    While the height of the left subtree and right subtree are different move to the deeper side.<br>
+    Return the node where the left and right subtree are the same.
+  </details>
+
+## 7/01/2026
+
+Leetcode question [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1339.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Use subtrees and the abs sum of the tree to find when a break is optimal.<br>
+    The value of a break is the subtree * (tree_sum - subtree)
+  </details>
+
+## 6/01/2026
+
+Leetcode question [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1161.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Find the value of each level with a bfs and find whichever level has the greatest sum.
+  </details>
+
+## 5/01/2026
+
+Leetcode question [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1975.cpp)
+  <details>
+    <summary>Editorial</summary>
+    Find how many negative numbers there are. If there is an even number, find the sum of the abs values.<br>
+    If there is an odd number, find the smallest number and subtract that twice from the sum of abs.
+  </details>
+
 ## 4/01/2026
 
 Leetcode question [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/?envType=daily-question&envId=2026-01-04)
