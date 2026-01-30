@@ -6,12 +6,12 @@
 
 Leetcode question [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/?envType=daily-question&envId=2026-01-27)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3650.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Rebuild the edges into an adjacency list and for each edge add its reverse with double weight.<br>
     Then use any shortest path algorithm to determine the minimum cost.<br>
     For any node since we do not have negative values, we will never revisit a node.
-  </details>
+   </details>
 
 ## 26/01/2026
 
@@ -22,137 +22,137 @@ Leetcode question [1200. Minimum Absolute Difference](https://leetcode.com/probl
 
 Leetcode question [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1984.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Sort the values then find when the value of a[i] and a[i + k - 1] is minimised.
-  </details>
+   </details>
 
 ## 8/01/2026
 
 Leetcode question [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/865.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Determine the heights of each subtree.<br>
     While the height of the left subtree and right subtree are different move to the deeper side.<br>
     Return the node where the left and right subtree are the same.
-  </details>
+   </details>
 
 ## 7/01/2026
 
 Leetcode question [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1339.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Use subtrees and the abs sum of the tree to find when a break is optimal.<br>
     The value of a break is the subtree * (tree_sum - subtree)
-  </details>
+   </details>
 
 ## 6/01/2026
 
 Leetcode question [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1161.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Find the value of each level with a bfs and find whichever level has the greatest sum.
-  </details>
+   </details>
 
 ## 5/01/2026
 
 Leetcode question [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1975.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Find how many negative numbers there are. If there is an even number, find the sum of the abs values.<br>
     If there is an odd number, find the smallest number and subtract that twice from the sum of abs.
-  </details>
+   </details>
 
 ## 4/01/2026
 
 Leetcode question [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/?envType=daily-question&envId=2026-01-04)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1390.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     For each number, check whether the divisors are 4. Edge case I determines was if it is a square number, at which point it will never. Fufills time complexity with O(m * sqrt(n)).
-  </details>
+   </details>
 
 ## 3/01/2026
 
 Leetcode question [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/?envType=daily-question&envId=2026-01-03)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1411.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Using DP use checks whether you can add to a prior value using a 27 x N Dynamic Program grid.
-  </details>
+   </details>
 
 ## 20/12/2025
 
 Leetcode question [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/?envType=daily-question&envId=2025-12-20)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/944.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Ceebs to write today
-  </details>
+   </details>
 
 ## 15/12/2025
 
 Leetcode question [2147. Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/?envType=daily-question&envId=2025-12-14)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2147.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Determine if it the number of seats is divisible by 2. I.e. check if there is a valid solution.<br>
     Then to count multiply the number of plants in between every second gap.
-  </details>
+   </details>
 
 ## 27/11/2025
 
 Leetcode question [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/?envType=daily-question&envId=2025-11-27)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3381.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Have a queue which tracks the optimal subarray of length x * k.<br>
     Essentially a rolling queue popping out the last and tracking the most optimal.
-  </details>
+   </details>
 
 ## 26/11/2025
 
 Leetcode question [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/?envType=daily-question&envId=2025-11-26)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2435.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Create a 3D Dp that stores the number of paths that can result in an int mod k. Use Dp to calculate each value.<br>
     Had errors with memory allocation and also ensuring the array access was a positive value which is why it is 100 * div.
-  </details>
+   </details>
 
 ## 25/11/2025
 
 Leetcode question [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/?envType=daily-question&envId=2025-11-25)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1015.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Multiply by 10 then add 1. Then find it moduolo k. If it is in the set return -1 else continue.
-  </details>
+   </details>
 
 ## 24/11/2025
 
 Leetcode question [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/?envType=daily-question&envId=2025-11-24)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1018.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Add the current and check if it is divisible by 5.
     Then multiply by 2 and find it moduolo 5.
-  </details>
+   </details>
 
 ## 23/11/2025
 
 Leetcode question [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/?envType=daily-question&envId=2025-11-23)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1262.cpp)
-  <details>
+   <details>
     <summary>Editorial</summary>
     Sum all the numbers together.<br>
     If the remainder is one, find max when sub one number with remainder 1, or 2 with remainder 2.<br>
     If the remainder is two, find max when sub one number with remainder 2, or 2 with remainder 1.
-  </details>
+   </details>
 
 ## 22/11/2025
 
