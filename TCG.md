@@ -1,5 +1,10 @@
 # __TCG results__
 
+- Pokemon Sydney Regionals (19/7/2025)
+  - 246th place (4-3-1)
+  - PultNoir
+  - https://labs.limitlesstcg.com/0052/player/0120
+
 - Digimon Sydney Regionals (19/7/2025)
   - Top 16 (16/126)
   - Galaxy Toolbox
