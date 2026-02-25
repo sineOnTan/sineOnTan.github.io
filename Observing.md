@@ -1,5 +1,8 @@
 # Observing History
 
+__Megalan Oceanic Prodigies__ (21 + 22/02/2025)
+ - Replays + observing
+
 __Noob Esports Starlight Charity Event__ (19/12/2025)
  - [Twitter](https://x.com/noob_esports/status/2001940579052392658)
 
