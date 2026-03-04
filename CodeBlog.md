@@ -2,6 +2,16 @@
 
 # __Coding Questions__
 
+## 4/03/2026
+
+Leetcode question [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/?envType=daily-question&envId=2026-03-04)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1582.cpp)
+   <details>
+    <summary>Editorial</summary>
+    Collate the number of 1s in verts and columns then iterate for all cells.
+    For each 1 check the number of 1s in the rows and columns is equal to 1.
+   </details>
+
 ## 27/01/2026
 
 Leetcode question [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/?envType=daily-question&envId=2026-01-27)
