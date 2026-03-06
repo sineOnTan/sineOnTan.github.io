@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 7/03/2026
+
+Leetcode question [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/?envType=daily-question&envId=2026-03-06)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1784.cpp)
+   <details>
+    <summary>Editorial</summary>
+    For each number in the sequence check if it is one. Then iterate until you dont find a 1. Count the amount of times this happens and return the result.
+   </details>
+
 ## 4/03/2026
 
 Leetcode question [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/?envType=daily-question&envId=2026-03-04)
