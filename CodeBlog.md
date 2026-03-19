@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 19/03/2026
+
+Leetcode question [3212. Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/?envType=daily-question&envId=2026-03-19)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3212.cpp)
+   <details>
+    <summary>Editorial</summary>
+    Complexity of the problem is finding the submatrices counts. This can be found using DP by using the cell above and left and using a set exclusion.
+   </details>
+
 ## 7/03/2026
 
 Leetcode question [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/?envType=daily-question&envId=2026-03-06)
