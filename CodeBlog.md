@@ -2,6 +2,16 @@
 
 # __Coding Questions__
 
+## 24/03/2026
+
+Leetcode question [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/?envType=daily-question&envId=2026-03-24)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2906.cpp)
+   <details>
+    <summary>Editorial</summary>
+    Find the suffix and prefix for each and compute the multiple of both.
+    Could have done a 2 pass this solution is overcomplicated.
+   </details>
+
 ## 23/03/2026
 
 Leetcode question [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/?envType=daily-question&envId=2026-03-23)
