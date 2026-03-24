@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 23/03/2026
+
+Leetcode question [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/?envType=daily-question&envId=2026-03-23)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1594.cpp)
+   <details>
+    <summary>Editorial</summary>
+    For each cell use DP to fine the largest negative and positive number available for each cell which will give you your result.
+   </details>
+
 ## 19/03/2026
 
 Leetcode question [3212. Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/?envType=daily-question&envId=2026-03-19)
