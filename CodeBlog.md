@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 25/03/2026
+
+Leetcode question [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/description/?envType=daily-question&envId=2026-03-25)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/3546.cpp)
+   <details>
+    <summary>Editorial</summary>
+    Find the sum then iterate the sum of columns and rows. After finishing a row or column, check that the sum of preds is half of the total sum.
+   </details>
+
 ## 24/03/2026
 
 Leetcode question [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/?envType=daily-question&envId=2026-03-24)
