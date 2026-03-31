@@ -2,6 +2,25 @@
 
 # __Coding Questions__
 
+## 31/03/2026
+
+Leetcode question [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/?envType=daily-question&envId=2026-03-30)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2840.cpp)
+   <details>
+    <summary>Editorial</summary>
+    Check whether the letters in odd numbers for each string is the same regardless of position.
+    Do this for letters in even numbers as well.
+   </details>
+
+## 30/03/2026
+
+Leetcode question [2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/?envType=daily-question&envId=2026-03-29)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2839.cpp)
+   <details>
+    <summary>Editorial</summary>
+    See 31/03/2026
+   </details>
+
 ## 25/03/2026
 
 Leetcode question [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/description/?envType=daily-question&envId=2026-03-25)
