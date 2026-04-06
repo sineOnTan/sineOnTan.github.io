@@ -11,6 +11,20 @@ Leetcode question [874. Walking Robot Simulation](https://leetcode.com/problems/
     Map out the pathing and check whether each square is taken before moving.
    </details>
 
+## 5/04/2026
+
+Leetcode question [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/?envType=daily-question&envId=2026-04-05)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/657.cpp)
+   
+## 4/04/2026
+
+Leetcode question [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/?envType=daily-question&envId=2026-04-04)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2075.cpp)
+   <details>
+    <summary>Editorial</summary>
+    Using mods and maths we can determine the rows and columns and use that to ennumerate in the string for the next ones.
+   </details>
+
 ## 31/03/2026
 
 Leetcode question [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/?envType=daily-question&envId=2026-03-30)
