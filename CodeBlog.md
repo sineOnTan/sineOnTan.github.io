@@ -2,6 +2,15 @@
 
 # __Coding Questions__
 
+## 6/04/2026
+
+Leetcode question [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/?envType=daily-question&envId=2026-04-06)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/874.cpp)
+   <details>
+    <summary>Editorial</summary>
+    Map out the pathing and check whether each square is taken before moving.
+   </details>
+
 ## 31/03/2026
 
 Leetcode question [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/?envType=daily-question&envId=2026-03-30)
