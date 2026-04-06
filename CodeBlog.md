@@ -25,7 +25,7 @@ Leetcode question [2075. Decode the Slanted Ciphertext](https://leetcode.com/pro
     Using mods and maths we can determine the rows and columns and use that to ennumerate in the string for the next ones.
    </details>
 
-## 31/03/2026
+## 30/03/2026
 
 Leetcode question [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/?envType=daily-question&envId=2026-03-30)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2840.cpp)
@@ -35,7 +35,7 @@ Leetcode question [2840. Check if Strings Can be Made Equal With Operations II](
     Do this for letters in even numbers as well.
    </details>
 
-## 30/03/2026
+## 29/03/2026
 
 Leetcode question [2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/?envType=daily-question&envId=2026-03-29)
  - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2839.cpp)
