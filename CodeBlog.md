@@ -12,6 +12,15 @@ Leetcode question [2069. Walking Robot Simulation II](https://leetcode.com/probl
     One thing to note is that you can remove any mods of the steps to go around the block however if you do a mod without starting you may have errors.
    </details>
 
+Leetcode question [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/60.cpp)
+   <details>
+    <summary>Editorial</summary>
+    Lots of edge cases.<br>
+    Use factorials to determine the modulus and how many times you need to iterate.<br>
+    And figure out how to solve the edge cases.
+   </details>
+
 ## 6/04/2026
 
 Leetcode question [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/?envType=daily-question&envId=2026-04-06)
