@@ -2,6 +2,16 @@
 
 # __Coding Questions__
 
+## 7/04/2026
+
+Leetcode question [2069. Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/?envType=daily-question&envId=2026-04-07)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/2069.cpp)
+   <details>
+    <summary>Editorial</summary>
+    Note that it can only travel along the walls. Check whether you need to turn and turn if needed incrementing each time you walk.<br>
+    One thing to note is that you can remove any mods of the steps to go around the block however if you do a mod without starting you may have errors.
+   </details>
+
 ## 6/04/2026
 
 Leetcode question [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/?envType=daily-question&envId=2026-04-06)
@@ -9,6 +19,13 @@ Leetcode question [874. Walking Robot Simulation](https://leetcode.com/problems/
    <details>
     <summary>Editorial</summary>
     Map out the pathing and check whether each square is taken before moving.
+   </details>
+
+Leetcode question [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/description/)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/1799.cpp)
+   <details>
+    <summary>Editorial</summary>
+    DP with bit masks and ensuring you are adding 2 numbers at a time. Using popcount to count how many times a pair of numbers has been added.
    </details>
 
 ## 5/04/2026
