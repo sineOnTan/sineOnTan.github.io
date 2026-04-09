@@ -4,6 +4,8 @@ __Road 2 Tournaments__ (9/04/2025)
  - Observing
 
 __Wave OCE: Rising Tides__ (7/04/2025)
+ - [OBS - WAVE OCE Rising Tides  - 333 vs LA game 1](https://youtu.be/_ybDGx_n6M0)
+ - [OBS - WAVE OCE Rising Tides  - 333 vs LA game 2](https://youtu.be/cOcC1IPhXxQ)
  - Observing
 
 __Megalan Oceanic Prodigies__ (21 + 22/02/2025)
