@@ -1,5 +1,11 @@
 # Observing History
 
+__Road 2 Tournaments__ (9/04/2025)
+ - Observing
+
+__Wave OCE: Rising Tides__ (7/04/2025)
+ - Observing
+
 __Megalan Oceanic Prodigies__ (21 + 22/02/2025)
  - Replays + observing
 
