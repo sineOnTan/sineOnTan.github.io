@@ -1,6 +1,8 @@
 # Observing History
 
 __Road 2 Tournaments__ (9/04/2025)
+ - [OBS - Road 2 Tournaments - Game 3 KOR vs MRX](https://youtu.be/yXWIT3kM0lI)
+ - [OBS - WAVE OCE Rising Tides  - 333 vs LA game 2](https://youtu.be/cOcC1IPhXxQ)
  - Observing
 
 __Wave OCE: Rising Tides__ (7/04/2025)
