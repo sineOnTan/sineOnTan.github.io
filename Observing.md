@@ -1,5 +1,9 @@
 # Observing History
 
+__Wave OCE: Rising Tides__ (14 + 20 + 21 + 22/04/2025)
+ - Observing
+
+
 __Road 2 Tournaments__ (9/04/2025)
  - [OBS - Road 2 Tournaments - Game 3 KOR vs MRX](https://youtu.be/yXWIT3kM0lI)
  - [OBS - Road 2 Tournaments - Game 4 TXG vs Cobra](https://youtu.be/tPghAcdEXv0)
