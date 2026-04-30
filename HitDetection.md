@@ -4,7 +4,9 @@ Hit detection is a key element of video games and needs to be optimised to ensur
 
 # Background
 
-Valorant hitboxes are represented as pills, a line with a radius spanning around it. For this one we will only look at bullets (represented as lines) and how they are calculated for a hit.
+Valorant hitboxes are represented as pills, a line with a radius spanning around it. For this one we will only look at bullets (represented as lines) and how they are calculated for a hit.<br>
+
+Based on this [video](https://youtu.be/01OJ5SYLeGQ?t=335) there are about 17 hitboxes per agent.
 
 # Bounding Boxes
 
