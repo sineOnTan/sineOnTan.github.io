@@ -1,0 +1,10 @@
+/* Default Light Styles */
+body { background-color: white; color: black; }
+
+/* Dark Mode Styles */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #0d1117; /* GitHub's dark grey */
+    color: #c9d1d9;
+  }
+}
