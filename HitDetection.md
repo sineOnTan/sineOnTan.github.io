@@ -1,1 +1,11 @@
+# Introduction
 
+Hit detection is a key element of video games and needs to be optimised to ensure the efficient calculation of data in a low latency environment. This is a short investigation into how these work and various optimisation that could be used.
+
+# Background
+
+Valorant hitboxes are represented as pills, a line with a radius spanning around it. For this one we will only look at bullets (represented as lines) and how they are calculated for a hit.
+
+# Bounding Boxes
+
+Bounding Volumes are used to break the map into smaller more manageable areas. Typically these are cubes or spheres.
