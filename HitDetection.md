@@ -12,6 +12,8 @@ Based on this [video](https://youtu.be/01OJ5SYLeGQ?t=335) there are about 17 hit
 
 Firstly, we need to establish how camera/bullet direction is calculated. Typically this is stored as yaw (horizontal) and pitch (vertical) for the camera angle. This helps establish where a person is looking. One example is CS2/GO.
 
+[Example code](https://github.com/sineOnTan/HitDetection/blob/main/yawPitch.cpp)
+
 # Bounding Boxes
 
 Bounding Volumes are used to break the map into smaller more manageable areas. Typically these are cubes or spheres. In the case of Valorant these are cubes (based on online sources).
