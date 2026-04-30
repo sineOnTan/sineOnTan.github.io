@@ -1,12 +1,10 @@
-@import "jekyll-theme-minimal";
+/* @import "jekyll-theme-minimal";
 
-/* Default Light Styles */
 body { background-color: white; color: black; }
 
-/* Dark Mode Styles */
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #0d1117; /* GitHub's dark grey */
+    background-color: #0d1117;
     color: #c9d1d9;
   }
-}
+} */
