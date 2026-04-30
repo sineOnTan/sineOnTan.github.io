@@ -10,4 +10,4 @@ Based on this [video](https://youtu.be/01OJ5SYLeGQ?t=335) there are about 17 hit
 
 # Bounding Boxes
 
-Bounding Volumes are used to break the map into smaller more manageable areas. Typically these are cubes or spheres.
+Bounding Volumes are used to break the map into smaller more manageable areas. Typically these are cubes or spheres. In the case of Valorant these are cubes (based on online sources).
