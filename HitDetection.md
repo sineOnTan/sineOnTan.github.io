@@ -10,7 +10,7 @@ Based on this [video](https://youtu.be/01OJ5SYLeGQ?t=335) there are about 17 hit
 
 # Cameras/Bullets
 
-Firstly, we need to establish how camera/bullet direction is calculated. Typically this is stored as yaw (horizontal) and pitch (vertical) for the camera angle. This helps establish where a person is looking.
+Firstly, we need to establish how camera/bullet direction is calculated. Typically this is stored as yaw (horizontal) and pitch (vertical) for the camera angle. This helps establish where a person is looking. One example is CS2/GO.
 
 # Bounding Boxes
 
