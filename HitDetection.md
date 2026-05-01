@@ -1,6 +1,6 @@
 # Introduction
 
-Hit detection is a key element of video games and needs to be optimised to ensure the efficient calculation of data in a low latency environment. This is a short investigation into how these work and various optimisation that could be used. All code used here has not been tested and is mainly research or concept material.
+Hit detection is a key element of video games and needs to be optimised to ensure the efficient calculation of data in a low latency environment. This is a short investigation into how these work and various optimisation that are used. All code used here has not been tested and is mainly research or concept material.
 
 # Background
 
