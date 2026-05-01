@@ -1,6 +1,6 @@
 # Introduction
 
-Hit detection is a key element of video games and needs to be optimised to ensure the efficient calculation of data in a low latency environment. This is a short investigation into how these work and various optimisation that could be used.
+Hit detection is a key element of video games and needs to be optimised to ensure the efficient calculation of data in a low latency environment. This is a short investigation into how these work and various optimisation that could be used. All code used here has not been tested and is mainly research or concept material.
 
 # Background
 
@@ -17,3 +17,7 @@ Firstly, we need to establish how camera/bullet direction is calculated. Typical
 # Bounding Boxes
 
 Bounding Volumes are used to break the map into smaller more manageable areas. Typically these are cubes or spheres. In the case of Valorant these are cubes (based on online sources).
+
+The following code gets a line and calculates the next box a line will enter.
+
+[Example code](https://github.com/sineOnTan/HitDetection/blob/main/line_Bound_Box.cpp)
