@@ -14,11 +14,11 @@ Firstly, we need to establish how camera/bullet direction is calculated. Typical
 
 [Example code](https://github.com/sineOnTan/HitDetection/blob/main/yawPitch.cpp)
 
-# Bounding Boxes
+# Spatial Partition
 
-Bounding Volumes are used to break the map into smaller more manageable areas. Typically these are cubes or spheres. In the case of Valorant these are cubes (based on online sources).
+Spatial Partitions are used to break the map into smaller more manageable areas.
 
 The following code gets a line and calculates the next box a line will enter.
 To ensure you do not indefinitely calculate bounding boxes there is a world box limit. (This is an assumption based on the fact it would be impossible to stop a line if there was not which would be computationally expensive)
 
-[Example code](https://github.com/sineOnTan/HitDetection/blob/main/line_Bound_Box.cpp)
+[Example code](https://github.com/sineOnTan/HitDetection/blob/main/spatialPartition.cpp)
