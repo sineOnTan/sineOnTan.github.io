@@ -2,7 +2,8 @@
 
 Hi I'm Cosine and I am a Comsci student who plays Valorant and TCG's
 
-# Current project 
+# Current project/research - Hit Detection/Game Optimisation
+[link](https://sineontan.github.io/HitDetection)
 
 # [Code Blog](https://sineontan.github.io/CodeBlog)
 
