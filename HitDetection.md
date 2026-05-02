@@ -32,5 +32,7 @@ Bounding boxes are typically axis aligned and can help optimisations by providin
 
 ## Bounding Box collision
 
-test
+Testing line and box collision is not an especially difficult take however some example code is provided in the bounding boxes file.
+
+
 
