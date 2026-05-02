@@ -30,3 +30,7 @@ Bounding boxes are typically axis aligned and can help optimisations by providin
 
 [Example code](https://github.com/sineOnTan/HitDetection/blob/main/boundingBoxes.cpp)
 
+## Bounding Box collision
+
+test
+
