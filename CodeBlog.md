@@ -2,6 +2,26 @@
 
 # __Coding Questions__
 
+## 22/05/2026
+
+Codeforces Contest [1132](https://codeforces.com/contest/1132)
+ - A
+   - [Solution](https://github.com/sineOnTan/codeforces/blob/main/1132/F.cpp)
+     <details>
+      <summary>Editorial</summary>
+      Note: This was the 25T2 DP final workshop question.
+
+## 5/05/2026
+
+Leetcode question [61. Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=daily-question&envId=2026-05-05)
+ - [Solution](https://github.com/sineOnTan/leetcode/blob/main/61.cpp)
+   <details>
+    <summary>Editorial</summary>
+    Find the size of the list and simplify k using mod. Check neither of them are 0.<br>
+    Now find the new tail of the list. The node after it will be the new head. Break the tail and store the new head. Now find the old tail and attach it to the<br>
+    start of the list to reconnect them.
+   </details>
+
 ## 5/05/2026
 
 Leetcode question [61. Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=daily-question&envId=2026-05-05)
