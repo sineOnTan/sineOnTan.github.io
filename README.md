@@ -7,6 +7,7 @@ Hi I'm Cosine and I am a Comsci student who plays Valorant and TCG's
 # [Code Blog](https://sineontan.github.io/CodeBlog)
 
 - Leetcode/Codeforces questions
+- COMP4128 (Programming Challenges) [Study notes](https://sineontan.github.io/4128)
 
 # [Mini Projects](https://sineontan.github.io/Projects)
 
