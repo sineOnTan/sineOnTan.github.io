@@ -1,7 +1,8 @@
 # Observing History
 
-__Wave OCE: Rising Tides__ (14 + 20 + 21 + 22/04/2025)
+__Wave OCE: Rising Tides__ (14 + 20 + 21 + 22 + 29/04/2025)
  - Observing
+ - Including Grand finals
 
 
 __Road 2 Tournaments__ (9/04/2025)
