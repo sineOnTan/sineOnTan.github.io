@@ -1,5 +1,8 @@
 # Observing History
 
+__Fortress Grassroots LAN__ (07/06/2025)
+ - Observer
+
 __Wave OCE: Rising Tides__ (14 + 20 + 21 + 22 + 29/04/2025)
  - Observing
  - Including Grand finals
