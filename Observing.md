@@ -1,5 +1,9 @@
 # Observing History
 
+__Fortress Grassroots LAN__ (12 + 13/09/2025)
+ - Observer
+ - [Twitter](https://x.com/fortressprod/status/2097516469806604745)
+
 __Game Changers Oceania Split 2__ (07/06/2025)
  - Observer - Group Stage under Profound Rice
 
