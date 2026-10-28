@@ -27,6 +27,8 @@ To ensure you do not indefinitely calculate bounding boxes there is a world box 
 
 [Example code](https://github.com/sineOnTan/HitDetection/blob/main/spatialPartition.cpp)
 
+
+
 # Bounding Boxes
 
 Bounding boxes are typically axis aligned and can help optimisations by providing simple calculations on whether a line can possibly intercept more complex hitboxes or polygons. So rather then calculate 10 hitboxes, we calculate 1 larger one first to ensure it is possible for the smaller ones to be reachable. There is a variety of ways of this being stored however a possible way is storing x,y,z coords and their lengths.
