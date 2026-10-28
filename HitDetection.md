@@ -14,7 +14,7 @@ Firstly, we need to establish how camera/bullet direction is calculated. Typical
 
 [Example code](https://github.com/sineOnTan/HitDetection/blob/main/cameraAngle.cpp)
 
-![1200x630mv](https://www.researchgate.net/publication/348803228/figure/fig7/AS:984434408955905@1611718861641/a-Pitch-yaw-and-roll-angles-of-an-aircraft-with-body-orientation-O-u-v-original.ppm)
+![1200x630mv](Rotations.png)
 
 # Spatial Partition
 
