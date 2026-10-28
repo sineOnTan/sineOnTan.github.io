@@ -29,13 +29,20 @@ To ensure you do not indefinitely calculate bounding boxes there is a world box 
 
 ![1200x630mv](valanticheat-7.png)
 
+[Image Source: Riot Games](https://www.riotgames.com/en/news/demolishing-wallhacks-valorants-fog-war)
+
+
 
 # Bounding Boxes
 
 Bounding boxes are typically axis aligned and can help optimisations by providing simple calculations on whether a line can possibly intercept more complex hitboxes or polygons. So rather then calculate 10 hitboxes, we calculate 1 larger one first to ensure it is possible for the smaller ones to be reachable. There is a variety of ways of this being stored however a possible way is storing x,y,z coords and their lengths.
 
 [Example code](https://github.com/sineOnTan/HitDetection/blob/main/boundingBoxes.cpp)
+
 ![1200x630mv](valanticheat-4.png)
+
+[Image Source: Riot Games](https://www.riotgames.com/en/news/demolishing-wallhacks-valorants-fog-war)
+
 
 ## Bounding Box collision
 
