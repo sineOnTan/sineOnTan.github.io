@@ -15,7 +15,8 @@ Firstly, we need to establish how camera/bullet direction is calculated. Typical
 [Example code](https://github.com/sineOnTan/HitDetection/blob/main/cameraAngle.cpp)
 
 ![1200x630mv](Rotations.png)
-[Source](https://en.wikipedia.org/wiki/Ship_motions)
+
+[Image source](https://en.wikipedia.org/wiki/Ship_motions)
 
 # Spatial Partition
 
