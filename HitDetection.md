@@ -44,9 +44,6 @@ Bounding boxes are typically axis aligned and can help optimisations by providin
 [Image Source: Riot Games](https://www.riotgames.com/en/news/demolishing-wallhacks-valorants-fog-war)
 
 
-## Bounding Box collision
-
-Testing line and box collision is not an especially difficult take however some example code is provided in the bounding boxes file.
 
 
 
