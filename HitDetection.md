@@ -27,7 +27,6 @@ To ensure you do not indefinitely calculate bounding boxes there is a world box 
 
 [Example code](https://github.com/sineOnTan/HitDetection/blob/main/spatialPartition.cpp)
 
-![1200x630mv](valanticheat-6.png)
 ![1200x630mv](valanticheat-7.png)
 
 
