@@ -16,7 +16,7 @@ Firstly, we need to establish how camera/bullet direction is calculated. Typical
 
 ![1200x630mv](Rotations.png)
 
-[Image source](https://en.wikipedia.org/wiki/Ship_motions)
+[Image Source: Wikipedia](https://en.wikipedia.org/wiki/Ship_motions)
 
 # Spatial Partition
 
