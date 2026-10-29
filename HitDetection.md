@@ -25,6 +25,8 @@ Spatial Partitions are used to break the map into smaller more manageable areas.
 The following code gets a line and calculates the next box a line will enter.
 To ensure you do not indefinitely calculate bounding boxes there is a world box limit. (This is an assumption based on the fact it would be impossible to stop a line if there was not which would be computationally expensive)
 
+Following this, games can be optimised using a precomputed PVS (Potentially Visible Set) which gives a fast lookup if an entity is visible and need to be accounted for (See diagram below).
+
 [Example code](https://github.com/sineOnTan/HitDetection/blob/main/spatialPartition.cpp)
 
 ![1200x630mv](valanticheat-7.png)
