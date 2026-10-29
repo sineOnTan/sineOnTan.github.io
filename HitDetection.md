@@ -43,6 +43,10 @@ Bounding boxes are typically axis aligned and can help optimisations by providin
 
 [Image Source: Riot Games](https://www.riotgames.com/en/news/demolishing-wallhacks-valorants-fog-war)
 
+# Credits
+
+Paul Chamberlain's post on [Fog of War and Anticheat](https://www.riotgames.com/en/news/demolishing-wallhacks-valorants-fog-war#top)
+
 
 
 
